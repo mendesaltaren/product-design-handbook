@@ -2,16 +2,16 @@
 
 En este apartado detallamos las herramientas y ejercicios que utilizamos a lo largo del proceso. Hablamos sobre el fin que tiene cada herramienta y cómo trabajamos con ellas de forma que nos ayudan a mejorar nuestro trabajo día a día.
 
-[Abstract](abstract.md)
+[Abstract](tools/abstract.md)
 
-[Sketch](sketch.md)
+[Sketch](tools/sketch.md)
 
-[Figma](figma.md)
+[Figma](tools/figma.md)
 
-[Zeplin](zeplin.md)
+[Zeplin](tools/zeplin.md)
 
-[Marvel](marvel.md)
+[Marvel](tools/marvel.md)
 
-[Notion](notion.md)
+[Notion](tools/notion.md)
 
-[Asana](asana.md)
+[Asana](tools/asana.md)

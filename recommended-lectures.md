@@ -1,9 +1,6 @@
 # ii. Lecturas recomendadas
 
-# Libros
+## Libros
 
----
+## Artículos
 
-# Artículos
-
----
