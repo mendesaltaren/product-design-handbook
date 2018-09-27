@@ -1,16 +1,12 @@
-# Summary
+# Índice
 
-* [Introducción](README.md)
-
-## 1. Equipo y organización
-
-## 2. Procesos
-
-## 3. Sistemas de diseño
-
-## 4. Herramientas
+* [0. Introducción](README.md)
+* [1. Cómo nos organizamos](organization.md)
+* [2. Proceso ](process.md)
+* [3. Branding](branding.md)
+* [4. Sistemas de diseño](design-systems.md)
 
 ---
 
-* I. [Recursos recomendados](README.md)
-* II. [Agradecimientos](README.md)
+* [i. Herramientas](tools.md)
+* [ii. Lecturas recomendadas](recommended-lectures.md)
