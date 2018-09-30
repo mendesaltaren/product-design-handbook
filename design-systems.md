@@ -503,7 +503,7 @@ Los componentes perceptibles hacen referencia a aquellos que reflejan la identid
   * Estilos de textos utilizados → se deben documentar las características de cada estilo de texto: altura, espaciado entre caracteres y pesos en los que se utiliza.
 * Espaciado → debe mostrar el grid utilizado para el producto concreto
 
-![Estilos del sistema de dise&#xF1;o](.gitbook/assets/design-system-styles%20%281%29.jpg)
+![Estilos del sistema de diseño](assets/images/design-system-styles.jpg)
 
 De manera interna, hemos desarrollado un _plugin_ que complementa nuestro software de trabajo **automatizando la creación** de la estructura de un sistema de diseño. Esta extensión ahorra el trabajo mecánico de creación de estilos de color y texto.
 
@@ -511,7 +511,6 @@ De manera interna, hemos desarrollado un _plugin_ que complementa nuestro softwa
 
 La organización visual de los elementos debe respetar y ser un reflejo de las reglas que seguimos para dividirlos en grupos de tal forma que estén separados según su naturaleza. La perspectiva general del sistema de diseño debería ser similar a la mostrada en el siguiente diagrama:
 
-![Visualizaci&#xF3;n global de los elementos de un sistema de dise&#xF1;o](.gitbook/assets/design-system-overview.jpg)
+![Visualización global de los elementos de un sistema de diseño](/assets/images/design-system-overview.jpg)
 
 Una vez hemos dado por concluida la documentación visual, es interesante reflejar en un documento adjunto, o en el mismo archivo del sistema, aquellos elementos que requieren de un nivel de detalle más minucioso. Esta documentación adjunta debe hacer una breve descripción de estos y de su uso.
-

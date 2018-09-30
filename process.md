@@ -18,7 +18,7 @@ No vamos a hablar de un proceso único. En absoluto se tratará de un discurso m
 * **Procesos de producto,** relacionados con la solución de problemas complejos para los usuarios en base a una serie de objetivos en un contexto concreto.
 * **Procesos de definición gráfica**, ya que es la comunicación visual nuestra principal herramienta \(que no la única\) a la hora de hacer que un producto digital sea un éxito.
 
-![Diagrama del flujo general de trabajo que usamos en el estudio](.gitbook/assets/global-workflow.jpg)
+![Diagrama del flujo general de trabajo que usamos en el estudio](assets/images/global-workflow.jpg)
 
 ## 1. Preparación
 
@@ -91,7 +91,7 @@ Involucra a representantes de los diferentes equipos en una dinámica de toma de
 
 El product canvas es también una forma estupenda de que el equipo del cliente nos conozca y entienda que estamos ahí para escucharles y ayudarles a mejorar sus procesos y productos.
 
-![Diagrama del flujo general de trabajo que usamos en el estudio](.gitbook/assets/global-workflow.jpg)
+![Diagrama del flujo general de trabajo que usamos en el estudio](assets/images/global-workflow.jpg)
 
 * **Segmento de cliente**
 
@@ -201,7 +201,7 @@ Para realizar historias de usuario utilizamos el siguiente esqueleto, teniendo e
 
 **En una aplicación de un supermercado, un ejemplo podría ser:**  
 "Como cliente recurrente quiero poder buscar entre mis pedidos anteriores para realizarlos de nuevo de forma rápida."  
-  
+
 **La funcionalidad que derivaría de esta historia de usuario sería:**  
 Tener una lista de pedidos realizados dentro de su perfil para poder repetir estos siempre que el usuario quiera.
 {% endhint %}
@@ -263,7 +263,7 @@ Un proceso de trabajo de un árbol de contenido tipo, partiendo de unos mapas co
 
 {% hint style="info" %}
 **💡** Para realizar un árbol de contenido se puede utilizar la librería de Sketch **flowchart system.**  
-  
+
 [flowchart systems.sketch](https://github.com/mendesaltaren/design-techniques/raw/master/assets/sketch/flowchart-systems.sketch)
 {% endhint %}
 
@@ -377,7 +377,7 @@ Este _moodboard_ debe ser **evocador**, pues nos servirá como punto de partida 
 
 **Es importante que tu** _**moodboard**_ **sea conciso**. Una posibilidad muy interesante, es la de crear pequeñas secciones centradas en aspectos concretos como el color, la forma, la textura, la tipografía, el tono comunicacional, etc. De este modo, maximizamos la potencia evocativa de la combinación de imágenes, evitando que se diluya en un mar de elementos visuales luchando por el protagonismo.
 
-![Vista de ejemplo del tipo de moodboards que utilizamos en nuestras presentaciones](.gitbook/assets/moodboard%20%281%29.jpg)
+![Vista de ejemplo del tipo de moodboards que utilizamos en nuestras presentaciones](assets/images/moodboard.jpg)
 
 ### 4.5 Branding
 
@@ -464,4 +464,3 @@ Al realizar la entrega del proyecto, realizamos un seguimiento con el equipo de 
 Cuando se entrega un proyecto, el responsable y los miembros del equipo que han formado parte de él realizan una retrospectiva del proyecto. En esta reunión, se analizará qué ha salido bien y qué puntos del proyecto se pueden mejorar, de cara a siguientes proyectos. Este conocimiento adquirido se traslada al resto del equipo, para que el aprendizaje se vea reflejado en todos los proyectos del estudio.
 
 A los tres meses de la entrega de un proyecto, nos ponemos en contacto con el cliente para ver cómo está funcionando el producto, obtener métricas y poder compararlas, si se tuvieran al inicio del proyecto. Gracias a obtener esta información podremos analizar qué ha funcionado a nivel de producto, y cómo nuestro trabajo ha contribuido a ello. Realizar una retrospectiva en este punto fomenta la mejora de los proyectos futuros.
-
