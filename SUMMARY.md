@@ -5,7 +5,7 @@
 * [2. Proceso](process.md)
 * [3. Branding](branding.md)
 * [4. Sistemas de diseño](design-systems.md)
-* [i. Herramientas](tools.md)
+* [i. Herramientas](tools/README.md)
   * [Abstract](tools/abstract.md)
   * [Sketch](tools/sketch.md)
   * [Figma](tools/figma.md)
@@ -14,3 +14,4 @@
   * [Notion](tools/notion.md)
   * [Asana](tools/asana.md)
 * [ii. Lecturas recomendadas](recommended-lectures.md)
+

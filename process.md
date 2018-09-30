@@ -8,7 +8,6 @@
 >
 > – John C. Maxwell
 
-
 Un proceso bien estructurado y madurado es una de las claves del éxito de cualquier proyecto. Y aunque cada proyecto es un mundo, existen numerosos patrones que a lo largo del tiempo hemos ido madurando y asumiendo, encontrando caminos recurrentes para llegar a resultados muy distintos.
 
 Desde el primer email de contacto, o la primera conversación informal en un evento, hasta la entrega final pueden llegar a pasar meses, pero independientemente de lo que se dilate un proyecto en el tiempo, el proceso siempre está presente. La previsibilidad es la clave. Seguir un roadmap definido y tenerlo actualizado nos ayudará a reducir la incertidumbre y a hacer partícipe a nuestro cliente de todos los eventos que ocurrirán durante su proyecto.
@@ -19,7 +18,7 @@ No vamos a hablar de un proceso único. En absoluto se tratará de un discurso m
 * **Procesos de producto,** relacionados con la solución de problemas complejos para los usuarios en base a una serie de objetivos en un contexto concreto.
 * **Procesos de definición gráfica**, ya que es la comunicación visual nuestra principal herramienta \(que no la única\) a la hora de hacer que un producto digital sea un éxito.
 
-![Diagrama del flujo general de trabajo que usamos en el estudio](assets/images/global-workflow.jpg)
+![Diagrama del flujo general de trabajo que usamos en el estudio](.gitbook/assets/global-workflow.jpg)
 
 ## 1. Preparación
 
@@ -33,8 +32,8 @@ Todo proyecto nace de una necesidad de un cliente. Pero es muy común que el pro
 **¿Por qué es tan importante?**
 
 * **Compartir visión y cultura.** Es muy importante que tu cliente sepa qué va a obtener de ti y qué no.
-* **Evitar clientes que no encajan.** Es mejor no realizar un trabajo que no forma parte de tu foco profesional y derivarlo a otros compañeros. Mejora el sector, es honesto con el cliente y nos permite centrarnos donde realmente aportamos valor.
-* **Mejorar la valoración de nuestro trabajo.** Transmitiendo el proceso y los pormenores de otros proyectos logramos que el cliente entienda la complejidad del día a día, lo que mejora su capacidad de criticar y entender nuestro trabajo.
+* **Evitar clientes que no encajan.** Es mejor no realizar un trabajo que no forma parte de tu foco profesional y derivarlo a otros compañeros. Mejora el sector, es honesto con el cliente y nos permite centrarnos donde realmente aportamos.
+* **Mejorar la valoración de nuestro trabajo.** Transmitiendo el proceso y los pormenores de otros proyectos logramos que el cliente entienda la complejidad del día a día, lo que mejora su capacidad de criticar y entender lo que hacemos.
 
 ### **1.1 Propuesta**
 
@@ -61,15 +60,14 @@ La fase de entendimiento es el proceso que nos permite establecer el marco de ac
 
 Cualquier proyecto de calidad, ya engloble producto, branding, u otros servicios, se comienza a gestar durante la fase de entendimiento. Es probablemente, la parte más importante de todo el proceso. La clave es delimitar claramente el problema al que nos enfrentamos. Si dicho problema no ha sido correctamente descrito, podríamos no dar nunca con una solución adecuada. Existen numerosas vías para llegar a conocer bien el problema. No existe una receta única. Normalmente, la fase de entendimiento comienza desde la primera toma de contacto.
 
-Este es el momento de preparar el proyecto a nivel técnico. Debemos crear el proyecto en Abstract y dar acceso a todas las personas involucradas en el proyecto, para que puedan ver los avances y aportar feedback a lo largo de este. Es también el momento de preparar la estructura de carpetas así como crear y organizar la documentación en Notion y empezar a subir tareas en Asana.
+Este es el momento de preparar el proyecto a nivel técnico. Debemos crear el proyecto en Abstract y dar acceso a todas las personas involucradas en el proyecto, para que puedan ver los avances y aportar feedback a lo largo de este. Es también el momento de preparar la estructura de carpetas así como crear y organizar la documentación en Notion y empezar a crear tareas en Asana.
 
-👉 _En_ [_**Cómo nos organizamos**_](organization.md) _aprenderás más sobre cómo crear esta estructura._
-
-👉 _En_ [_**Notion**_](tools/notion.md) _puedes conocer más sobre cómo creamos y documentamos un proyecto._
-
-👉 _En_ [_**Asana**_](tools/asana.md) _puedes ver cómo organizamos las tareas a completar del proceso._
-
-_👉 En_ [_**Abstract**_](tools/abstract.md) _leerás acerca de esta herramienta y como preparar un proyecto._
+{% hint style="info" %}
+👉 En [**Cómo nos organizamos**](organization.md) aprenderás más sobre cómo crear esta estructura.  
+👉 En [**Notion**](tools/notion.md) puedes conocer más sobre cómo creamos y documentamos un proyecto.  
+👉 En [**Asana**](tools/asana.md) puedes ver cómo organizamos las tareas a completar del proceso.  
+👉 En [**Abstract**](tools/abstract.md) leerás acerca de esta herramienta y como preparar un proyecto.
+{% endhint %}
 
 ### 2.1 Brief
 
@@ -77,7 +75,7 @@ Una de las vías más comunes de comenzar a _entender_ es a través de un brief,
 
 ### 2.2 **Brand Strategy Brief**
 
-Para entender el producto y la marca y adquirir un conocimiento inicial de los mismos, solemos enviar a nuestros clientes un documento de nuestra factura al que llamamos [**Brand Strategy Brief**](https://github.com/mendesaltaren/design-techniques/raw/master/assets/pdf/brand-strategy-brief.pdf). Es un pequeño cuestionario que invita al cliente a hacer una reflexión estratégica y conceptual sobre su organización, pasando por la visión, misión y valores, así como su público objetivo y competencia. De esta manera, el equipo mendesaltaren se alinea con el cliente, adoptando sus principios y valores a lo largo del proyecto. Este brief no es siempre necesario, pero es imprescindible si el proyecto incluye branding o si no tienen una estrategia bien definida.
+Para entender el producto y la marca y adquirir un conocimiento inicial de los mismos, solemos enviar a nuestros clientes un documento de nuestra factura al que llamamos **Brand Strategy Brief**. Es un pequeño cuestionario que invita al cliente a hacer una reflexión estratégica y conceptual sobre su organización, pasando por la visión, misión y valores, así como su público objetivo y competencia. De esta manera, el equipo mendesaltaren se alinea con el cliente, adoptando sus principios y valores a lo largo del proyecto. Este brief no es siempre necesario, pero es imprescindible si el proyecto incluye branding o si no tienen una estrategia bien definida.
 
 [Brand Strategy Brief.pdf](https://github.com/mendesaltaren/design-techniques/raw/master/assets/pdf/brand-strategy-brief.pdf)
 
@@ -93,43 +91,43 @@ Involucra a representantes de los diferentes equipos en una dinámica de toma de
 
 El product canvas es también una forma estupenda de que el equipo del cliente nos conozca y entienda que estamos ahí para escucharles y ayudarles a mejorar sus procesos y productos.
 
-![Diagrama del flujo general de trabajo que usamos en el estudio](assets/images/global-workflow.jpg)
+![Diagrama del flujo general de trabajo que usamos en el estudio](.gitbook/assets/global-workflow.jpg)
 
-* Segmento de cliente
+* **Segmento de cliente**
 
   ¿Cuál es el target de nuestro producto? ¿A quién va dirigido?
 
-* Necesidades insatisfechas
+* **Necesidades insatisfechas**
 
   ¿Cuáles han sido las necesidades observadas en el mercado a las que se les busca solución?
 
-* Pains
+* **Pains**
 
   ¿Cuáles son los pains que tiene en cliente para llevar sacar el producto? → Debilidades
 
-* Gains
+* **Gains**
 
   ¿Cuáles son los puntos fuerte del cliente que ayudan y contribuyen a llevar a cabo el producto? → Fortalezas
 
-* Propuesta de valor
+* **Propuesta de valor**
 
   La propuesta de valor es el último rectángulo en ser completado. Es importante que sea el último, ya que se debe nutrir de todo lo planteado en los demás.
 
   La propuesta de valor representa la ventaja competitiva del producto respecto a los que ya hay en el mercado. ¿Qué es lo que hace que los clientes elijan nuestro producto?
 
-* Feature set
+* **Feature set**
 
   ¿Cuáles son las características del producto?
 
-* UX
+* **UX**
 
   ¿Qué herramientas y ejercicios de UX se van a utilizar para conocer a nuestros usuarios?¿Cómo vamos a conseguir información de ellos?
 
-* Canales
+* **Canales**
 
   ¿Cuáles son los canales a través de los cuales se va a dar a conocer el producto? ¿Cuáles son los canales que utiliza el producto?
 
-* Pricing
+* **Pricing**
 
   ¿Cómo se va a monetizar el producto?
 
@@ -162,9 +160,11 @@ Las conclusiones que extraigamos pueden ser representadas de muchas formas. Dest
 * User Personas. Existen dos tipos, protopersonas, si la información de base es inventada, y personas, si las estamos realizando en base a información real extraida previamente. Se trata de componer una personalidad realista de usuarios del producto. Nos permite destacar cuales son sus necesidades, frustraciones, gustos, herramientas... para así atacar el diseño desde la óptica adecuada.
 * Otros documentos tales como benchmark, investigación de mercado...
 
+{% hint style="info" %}
 No olvidemos documentar todos los resultados de cada fase en Notion.
 
-👉 _En_ [_**Notion**_](tools/notion.md) _puedes conocer más sobre cómo creamos y documentamos un proyecto._
+👉 En [**Notion**](tools/notion.md) puedes conocer más sobre cómo creamos y documentamos un proyecto
+{% endhint %}
 
 ## 3. Definición
 
@@ -196,15 +196,15 @@ Las historias de usuario son un buen ejercicio que nos ayuda en esta fase a enco
 
 Para realizar historias de usuario utilizamos el siguiente esqueleto, teniendo en cuenta la necesidad que tiene el usuario y valor que le aporta suplir dicha necesidad.
 
-**Como** _**\_**_ **quiero** _**\_**_ **para** _**\_**_ **.**
+{% hint style="info" %}
+**Como \_\_\_\_\_\_\_\_\_\_\_ quiero \_\_\_\_\_\_\_\_\_\_\_ para \_\_\_\_\_\_\_\_\_\_\_ .**
 
-En una aplicación de un supermercado, un ejemplo podría ser:
-
-"Como cliente recurrente quiero poder buscar entre mis pedidos anteriores para realizarlos de nuevo de forma rápida."
-
-La funcionalidad que derivaría de esta historia de usuario sería:
-
+**En una aplicación de un supermercado, un ejemplo podría ser:**  
+"Como cliente recurrente quiero poder buscar entre mis pedidos anteriores para realizarlos de nuevo de forma rápida."  
+  
+**La funcionalidad que derivaría de esta historia de usuario sería:**  
 Tener una lista de pedidos realizados dentro de su perfil para poder repetir estos siempre que el usuario quiera.
+{% endhint %}
 
 Al realizar las historias de usuario no buscamos definir cómo va a ser la solución que satisfaga las necesidades de éste, sino únicamente detallar las funcionalidades que permiten solucionar el problema detectado.
 
@@ -242,36 +242,46 @@ Realizamos mapas conceptuales para organizar información de diversa índole. Se
 
 Realizar un mapa conceptual es tan sencillo como recopilar todos los bloques de información que tenemos que organizar y disponerlos en un orden lógico en un eje horizontal o vertical. Es muy importante usar algún código para jerarquizar los distintos bloques según su importancia. Una vez tengamos varios bloques conceptuales, podemos establecer relaciones mayores organizando en un segundo paso los grupos entre sí. Una evolución lógica de un mapa conceptual podría ser un árbol de contenidos.
 
+{% hint style="info" %}
 **💡** Para realizar los mapas conceptuales fácilmente puedes utilizar la librería **concept maps systems**.
 
-[concept maps system.sketch](https://github.com/mendesaltaren/design-techniques/raw/master/assets/sketch/concept-maps-system.sketch)
+📎 [concept maps system.sketch](https://github.com/mendesaltaren/design-techniques/raw/master/assets/sketch/concept-maps-system.sketch)
+{% endhint %}
 
 ### 3.4 Árbol de contenido
 
 Un árbol de contenido se parece a un mapa conceptual pero tiene varias secciones y ramificaciones. Sirve para organizar y establecer las agrupaciones y dependencias de un producto digital. Es siempre de gran utilidad e imprescindible cuando creamos un proyecto desde cero o cuando el proyecto cuente con mucha información y contenido, y sea necesario llevar a cabo una reestructuración de éste. Un árbol de contenido muestra restricciones entre las páginas de la app o web y permite documentar la organización y navegación de ésta.
 
-⚠️ Es importante no confundir un _árbol de contenido_ con un _flujo_. Un _árbol de contenido_ refleja las páginas y en qué nivel se encuentran éstas, pero no refejan el orden ni las distintas casuísticas según la interacción de los usuarios.
+{% hint style="warning" %}
+Es importante no confundir un _árbol de contenido_ con un _flujo_. Un _árbol de contenido_ refleja las páginas y en qué nivel se encuentran éstas, pero no refejan el orden ni las distintas casuísticas según la interacción de los usuarios.
+{% endhint %}
 
 Un proceso de trabajo de un árbol de contenido tipo, partiendo de unos mapas conceptuales, podría describirse así:
 
 1. Organizar todos las bloques identificados en los mapas conceptuales en una estructura global. Esta estructura debe considerar los distintos niveles de navegación \(primario, secundario, etc.\). No es necesario tener presentes todos los bloques que conforman los mapas conceptuales, solamente identificarlos.
 2. Organizar el contenido en páginas distintas.
 
-**💡** Para realizar un árbol de contenido se puede utilizar la librería de Sketch **flowchart system.**
-
+{% hint style="info" %}
+**💡** Para realizar un árbol de contenido se puede utilizar la librería de Sketch **flowchart system.**  
+  
 [flowchart systems.sketch](https://github.com/mendesaltaren/design-techniques/raw/master/assets/sketch/flowchart-systems.sketch)
+{% endhint %}
 
 ### 3.5 **Flujos**
 
 Los flujos muestran **como interactúa un usuario** con un producto o servicio, mostrando diferentes caminos en función de la interacción de los usuarios. Permiten detectar _pain points_ en los distintos _funnels_ de la app o web, así como reflexionar en abstracto y tomar decisiones sobre las diferentes casuísticas y opciones de uso de un servicio o producto.
 
-⚠️ Los flujos se pueden realizar a lo largo de toda la etapa de definición y serán siempre útiles. Antes de realizar los wireframes es importante tener creado un flujo para validar con el cliente la navegación y estructura de la app o web.
+{% hint style="warning" %}
+Los flujos se pueden realizar a lo largo de toda la etapa de definición y serán siempre útiles. Antes de realizar los wireframes es importante tener creado un flujo para validar con el cliente la navegación y estructura de la app o web.
+{% endhint %}
 
 Existe una convención estándar para la realización de flujos denominada "flowchart system". Es muy sencilla y conocerla nos permitirá realizar flujos legibles por multitud de perfiles. Esta convención puede ser adaptada a cualquier producto o servicio. Recomendamos usar el archivo adjunto, realizado por nosotros, para la creación de tus flujos.
 
+{% hint style="info" %}
 **💡** Para preparar tus flujos se puede utilizar la librería de Sketch **flowchart system.**
 
 [flowchart systems.sketch](https://github.com/mendesaltaren/design-techniques/raw/master/assets/sketch/flowchart-systems.sketch)
+{% endhint %}
 
 ### 3.6 Componentización
 
@@ -307,7 +317,9 @@ Un concepto gráfico debe permitirnos encontrar recursos visuales simples que ap
 
 Una forma interesante y práctica de testear las posibilidades de expresión de nuestro concepto sería usar la siguiente fórmula:
 
-**Si nuestro concepto es \_, nuestros recursos gráficos serán/estarán \_\_.**
+{% hint style="info" %}
+**Si nuestro concepto es \_\_\_\_\_\_\_\_, nuestros recursos gráficos serán/estarán \_\_\_\_\_\_\_\_.**
+{% endhint %}
 
 Y continuando con el ejemplo anterior:
 
@@ -328,13 +340,15 @@ El **objetivo de la fase** de _wireframing_ es definir desde el flujo de navegac
 * **Lo-fi**. Como diseñadores, son nuestro punto de partida para traducir la propuesta de valor en un _layout_. Deben proporcionarnos una imagen muy sencilla de cómo se va a estructurar la información a nivel general. Se trabaja en base a bloques que cumplen objetivos, sin ahondar en como funciona cada bloque por dentro. Sirven para validar la distintos módulos que conformarán cada sección, las relaciones entre ellos, reducir al mínimo el número de componentes, y generar una estructura bien definida de forma rápida.
 * **Hi-fi**. Los wireframes en alta son la evolución natural en la cual empezamos a ver cómo funciona cada módulo y componente. La idea es validar la funcionalidad final del producto antes de preocuparnos por el visual.
 
+{% hint style="info" %}
 **💡 Tip**: Para crear los wireframes utilizamos la librería **wireframes system**.
 
-[wireframes system.sketch](https://github.com/mendesaltaren/design-techniques/raw/master/assets/sketch/wireframe-system.sketch)
+​[wireframes system.sketch](https://github.com/mendesaltaren/design-techniques/raw/master/assets/sketch/wireframe-system.sketch)
+{% endhint %}
 
 ### 4.2 Prototipado
 
-Prototipar proporciona la versatilidad de poder testar el producto con usuarios en etapas tempranas y detectar \*\*problemas a nivel de navegación y contenido. Cuando hablamos de prototipo nos referimos a: diseños en mayor o menor medida cercanos en fidelidad al producto final, que nos permiten interactuar con las funcionalidades que proponemos.
+Prototipar proporciona la versatilidad de poder testar el producto con usuarios en etapas tempranas y detectar problemas a nivel de navegación y contenido. Cuando hablamos de prototipo nos referimos a: diseños en mayor o menor medida cercanos en fidelidad al producto final, que nos permiten interactuar con las funcionalidades que proponemos.
 
 **El prototipo permite:**
 
@@ -351,7 +365,9 @@ Como hemos mencionado, es muy interesante testear el prototipo con usuarios para
 
 Al igual que ocurre con las entrevistas o encuestas, es de suma importancia tratar de sesgar lo mínimo a los usuarios. Preguntar por su opinión sobre el trabajo o pedirles valoraciones y juicios solo traerá respuestas complacientes y poco críticas. La clave es plantearles problemas reales y observar si los resuelven y cómo. Es vital ejercer de facilitador y no de guía, así como manejar el entorno para que se sientan cómodos: lo ideal es que usen el producto en un entorno lo más parecido a la realidad para no sesgarles.
 
+{% hint style="info" %}
 Para poder testar con usuarios es necesario tener un _**checklist**_ **de tareas** **a completar por los mismos. En la sesión en la que se realice el testeo,** es recomendable recordarle al usuario que no se le está juzgando a él, sino a la aplicación o web con el objetivo de mejorar. Se le comentará también cuáles son las tareas que debe completar. Cuando se complete una tarea la marcaremos en el _checklist_, esto nos servirá de guía para ver si el problema se ha resuelto con éxito o es necesario iterar sobre él.
+{% endhint %}
 
 ### 4.4 Moodboard
 
@@ -361,31 +377,37 @@ Este _moodboard_ debe ser **evocador**, pues nos servirá como punto de partida 
 
 **Es importante que tu** _**moodboard**_ **sea conciso**. Una posibilidad muy interesante, es la de crear pequeñas secciones centradas en aspectos concretos como el color, la forma, la textura, la tipografía, el tono comunicacional, etc. De este modo, maximizamos la potencia evocativa de la combinación de imágenes, evitando que se diluya en un mar de elementos visuales luchando por el protagonismo.
 
-![Vista de ejemplo del tipo de moodboards que utilizamos en nuestras presentaciones](assets/images/moodboard.jpg)
+![Vista de ejemplo del tipo de moodboards que utilizamos en nuestras presentaciones](.gitbook/assets/moodboard%20%281%29.jpg)
 
 ### 4.5 Branding
 
 El branding, junto al diseño de producto, es uno de los servicios más importantes que ofrecemos en el estudio. Son, de hecho, prácticamente indivisibles. No se puede entender un producto sin su marca ni al contrario. No es una fase como tal, ya que en un proyecto ideal la marca se desarrollaría paralelamente a muchas de las fases ya tratadas, bebiendo de algunas de ellas \(entendimiento, definición, conceptualización o componentización\) y alimentando otras \(producción, diseño visual, narrativa\). Es por todo esto que hemos decidido crear una sección específica para realizar una breve introducción al proceso que seguimos para la creación de marca en el estudio.
 
-👉 _Consulta una introducción a nuestro proceso de [**branding**](branding.md)._
+{% hint style="info" %}
+👉 Consulta una introducción a nuestro proceso de [**branding**](branding.md).
+{% endhint %}
 
 ### 4.6 Diseño visual
 
 Una vez hemos definido y testado todos los aspectos funcionales y estructurales de un producto digital, llega el momento de dotar a estos de unos acabados visuales finales que nos ayuden a potenciar una **buena experiencia de usuario**.
 
-"El buen diseño es estético"
-
-– Dieter Rams
+> "El buen diseño es estético"
+>
+> – Dieter Rams
 
 En sus 10 principios del buen diseño, Dieter Rams argumenta que **la calidad estética de un producto es parte integral de su utilidad**. Desde nuestro punto de vista, entre usuario y producto se establece una relación de uso que puede ser análoga a la que se crea en arquitectura entre edificios y personas. Del mismo modo que recorrer una construcción agradable repercute en nuestro bienestar y estado de ánimo, utilizar un producto digital creado de forma armoniosa, beneficia a esta relación establecida entre usuario y producto.
 
-Habitualmente, los elementos y códigos visuales de los que necesitamos hacer uso cuando creamos un producto digital, se enmarcan dentro de un contexto determinado: tienen que representar a una marca. Por ello, una parte importante de esta fase es la relativa a delimitar un ecosistema que los englobe. Este ecosistema es la **identidad de marca** o _**branding**_. Antes de materializar el producto a un nivel visual final, y aunque ya tengamos definidas las funcionalidades del producto, será imprescindible concretar esa identidad de marca. Este proceso es de cierto modo independiente al de desarrollo de producto. Por eso, e[n este punto definimos todo el proceso de _branding_](branding.md).
+Habitualmente, los elementos y códigos visuales de los que necesitamos hacer uso cuando creamos un producto digital, se enmarcan dentro de un contexto determinado: tienen que representar a una marca. Por ello, una parte importante de esta fase es la relativa a delimitar un ecosistema que los englobe. Este ecosistema es la **identidad de marca** o _**branding**_. Antes de materializar el producto a un nivel visual final, y aunque ya tengamos definidas las funcionalidades del producto, será imprescindible concretar esa identidad de marca. Este proceso es de cierto modo independiente al de desarrollo de producto. Por eso, en este punto definimos todo el proceso de [_branding_](branding.md).
 
-Con la identidad de marca ya definida, podremos pasar a desarrollar el **sistema de diseño**. En él estableceremos unos **patrones** que facilitarán el uso de elementos comunes de forma recurrente, potenciando la recursividad. definiremos unas **reglas** que articularán el uso del mismo y también sentaremos las bases de un **lenguaje claro y consistente**, a partir del que crear y desarrollar productos. [En este otro punto desarrollamos en profundidad todo lo relativo al sistema de diseño](design-systems.md).
+Con la identidad de marca ya definida, podremos pasar a desarrollar el **sistema de diseño**. En él estableceremos unos **patrones** que facilitarán el uso de elementos comunes de forma recurrente, potenciando la recursividad. definiremos unas **reglas** que articularán el uso del mismo y también sentaremos las bases de un **lenguaje claro y consistente**, a partir del que crear y desarrollar productos. En este otro punto desarrollamos en profundidad todo lo relativo al [sistema de diseño](design-systems.md).
 
-👉 _Consulta una introducción a nuestro proceso de [**branding**](branding.md)._
+{% hint style="info" %}
+👉 Consulta una introducción a nuestro proceso de [**branding**](branding.md).
+{% endhint %}
 
-👉 _Consulta una nuestra aproximación a los [**sistemas de diseño**](design-systems.md)._
+{% hint style="info" %}
+👉 Consulta una nuestra aproximación a los [**sistemas de diseño**](design-systems.md).
+{% endhint %}
 
 ## 5. Entrega
 
@@ -403,22 +425,27 @@ A la hora de preparar un proyecto entregable es muy importante establecer una or
 
 Creamos una estuctura de carpetas dentro de la carpeta "deliverables" con todos los recursos acordados con el cliente. Será esta subcarpeta la que compartiremos con el cliente.
 
+{% hint style="info" %}
 Los entregables del proyecto serán aquellos definidos previamente con el cliente y estarán en todo momento documentados en Notion.
+{% endhint %}
 
 **¿Cómo preparar archivos de sketch para entregar?**
 
 1. Mergear todas las posibles ramas que haya en el proyecto de Abstract a la rama _Master_.
+2. Exportar los archivos de la rama _Master_.
+3. Guardarlos en Dropbox
 
-✏️ Puedes conocer sobre cómo utilizamos Abstract más en el apartado de [Abstract](tools/abstract.md).
-
-1. Exportar los archivos de la rama _Master_.
-2. Guardarlos en Dropbox
+{% hint style="info" %}
+✏️ Consulta la documentacion sobre como usamos Abstract más en el apartado de [Abstract](tools/abstract.md).
+{% endhint %}
 
 ### 5.3 Handoff
 
 Para trasladar el diseño a desarrollo, utilizamos [Zeplin](tools/zeplin.md). Nos permite reducir el gap entre diseño y desarrollo, facilitando la implementación de del diseño. Únicamente subimos a Zeplin aquellos archivos que estén en la rama _Master_ de Abstract, para tener un control de qué se sube.
 
+{% hint style="info" %}
 👉 Si quieres saber más sobre cómo preparar tus archivos para el handoff puedes consultar el artículo sobre [Zeplin](tools/zeplin.md).
+{% endhint %}
 
 ## 6. Seguimiento
 
@@ -437,3 +464,4 @@ Al realizar la entrega del proyecto, realizamos un seguimiento con el equipo de 
 Cuando se entrega un proyecto, el responsable y los miembros del equipo que han formado parte de él realizan una retrospectiva del proyecto. En esta reunión, se analizará qué ha salido bien y qué puntos del proyecto se pueden mejorar, de cara a siguientes proyectos. Este conocimiento adquirido se traslada al resto del equipo, para que el aprendizaje se vea reflejado en todos los proyectos del estudio.
 
 A los tres meses de la entrega de un proyecto, nos ponemos en contacto con el cliente para ver cómo está funcionando el producto, obtener métricas y poder compararlas, si se tuvieran al inicio del proyecto. Gracias a obtener esta información podremos analizar qué ha funcionado a nivel de producto, y cómo nuestro trabajo ha contribuido a ello. Realizar una retrospectiva en este punto fomenta la mejora de los proyectos futuros.
+

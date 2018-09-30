@@ -10,9 +10,9 @@ Por otro lado, hemos separado el proceso general de las herramientas que empleam
 
 ## Instrucciones
 
-Este documento hay que entenderlo más como una conversación que como un manual. No pretende ser paradigma de nada, sino un reflejo del proceso que seguimos en el estudio, documentando el mismo. Es una aproximación para el _onboarding_ de cualquier persona que vaya a incorporarse al estudio.
+Este documento hay que entenderlo más como una conversación que como un manual. No pretende ser paradigma de nada, sino un reflejo del proceso que seguimos en el estudio, documentando el mismo. Es una guía básica para cualquier persona que vaya a incorporarse al estudio o con la que vayamos a trabajar en algún proyecto concreto.
 
-Creemos que la mejor forma de utilizarlo es haciéndolo tuyo y asimilando aquellas partes que entren en tu _workflow_. No pretendemos ser exhaustivos ni ahondar en todas las técnicas. Encontrarás algunas partes bien delimitadas y otras que no lo están tanto: obedece al hecho de que para todo proceso hay pasos, pero no para todos los pasos hay herramientas exactas que los completen. Es un proceso creativo y, como tal, siempre hay espacio para tu propio sello.
+Creemos que la mejor forma de utilizarlo es haciéndolo tuyo y asimilando aquellas partes que entren en tu flujo de trabajo. No pretendemos ser exhaustivos ni ahondar en todas las técnicas. Encontrarás algunas partes bien delimitadas y otras que no lo están tanto: obedece al hecho de que para todo proceso hay pasos, pero no para todos los pasos hay herramientas exactas que los completen. Es un proceso creativo y, como tal, siempre hay espacio para tu propio sello.
 
 ## Sobre mendesaltaren
 
@@ -24,11 +24,13 @@ Esfuerzo, devoción, dedicación y gloria.
 
 ## Cómo colaborar con este proyecto
 
-Siempre estamos abiertos a sugerencias acerca de como mejorar nuestro contenido. Si tienes alguna, puedes abrir un issue y estaremos encantados de revisarlo.
+Siempre estamos abiertos a sugerencias acerca de como mejorar nuestro contenido. Si tienes alguna, puedes abrir un issue en GitHub y estaremos encantados de revisarlo. Para abrirlo solo tienes que estar dado de alta en GitHub y pulsar en el botón "Edit in GitHub" de la página que quieras editar.
 
 Otra forma de colaborar ayudarnos con esta iniciativa es hacer un fork y enviarnos directamente un pull request para solucionar cualquier error que encuentres o añadir algún recurso o información.
 
-Cualquier ayuda es bienvenida :\)
+Si este proceso te parece muy tedioso siempre puedes escribirnos un mail a [hello@mendesaltaren.com](mailto:hello@mendesaltaren.com) con tus sugerencias.
+
+Cualquier tipo de ayuda siempre será bienvenida.
 
 {% embed data="{\"url\":\"https://www.youtube.com/watch?v=kzLJ7Vy6orw\",\"type\":\"video\",\"title\":\"Agorazein - 100k pasos \(Video Oficial\)\",\"description\":\"@agz\_oficial\\n@c\_tangana\\n@RoyceRolo\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.youtube.com/yts/img/favicon\_144-vfliLAfaB.png\",\"width\":144,\"height\":144,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://i.ytimg.com/vi/kzLJ7Vy6orw/maxresdefault.jpg\",\"width\":1280,\"height\":720,\"aspectRatio\":0.5625},\"embed\":{\"type\":\"player\",\"url\":\"https://www.youtube.com/embed/kzLJ7Vy6orw?rel=0&showinfo=0\",\"html\":\"<div style=\\\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;\\\"><iframe src=\\\"https://www.youtube.com/embed/kzLJ7Vy6orw?rel=0&amp;showinfo=0\\\" style=\\\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\\\" allowfullscreen scrolling=\\\"no\\\"></iframe></div>\",\"aspectRatio\":1.7778}}" %}
 
@@ -37,9 +39,9 @@ Cualquier ayuda es bienvenida :\)
 >
 > – Agorazein
 
-
 ## Licencia
 
-Esta obra está bajo una licencia de [Creative Commons Reconocimiento 4.0 Internacional](LICENSE).
+Esta obra está bajo una licencia de [Creative Commons Reconocimiento 4.0 Internacional](https://github.com/mendesaltaren/design-techniques/tree/2652cd4913656e81f5956d392148cd56b4693161/LICENSE/README.md).
 
 [![Licencia de Creative Commons](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+

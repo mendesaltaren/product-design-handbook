@@ -8,7 +8,7 @@ En este apartado compartiremos nuestra organización básica a distintos niveles
 
 En el equipo trabajamos en torno a objetivos. Distinguimos cuatro tipo de objetivos en función de su dimensión: anuales, trimestrales, mensuales y semanales.
 
-Definimos estos objetivos siguiendo los principios SMART, es decir, deben ser específicos, medibles, alcanzables, relevantes y definidos en un tiempo específico. Nótese que usamos una variante diferente a la establecida por George T. Doran, sustituimos asignables por alcanzables y realistas por relevantes, ya que, para nosotros, es fundamental que esos objetivos tengan impacto y nos acerquen a las metas que queremos alcanzar. Para nosotros, es fundamental que todos los objetivos cumplan este criterio porque nos obliga a dejar a un lado los objetivos aspiracionales, reducir el autoengaño y la autocomplacencia.
+Definimos estos objetivos siguiendo los principios SMART, es decir, deben ser específicos, medibles, alcanzables, relevantes y definidos en un tiempo específico. Nótese que usamos una variante diferente a la establecida por George T. Doran, sustituimos asignables por alcanzables y realistas por relevantes, ya que, para nosotros, es fundamental que esos objetivos tengan impacto y nos acerquen a las metas que queremos alcanzar. Además, es fundamental que todos los objetivos cumplan este criterio porque nos obliga a dejar a un lado los objetivos aspiracionales y reducir el autoengaño y la autocomplacencia.
 
 Cada vez que definimos nuevos objetivos o se actualizan los anteriores se comparten con todos los integrantes del estudio para hacerlos partícipes. Esto nos permite estar alineados y compartir la visión del estudio.
 
@@ -22,11 +22,11 @@ Con los objetivos anuales marcamos la meta pero no el camino. Son abstractos, y 
 
 **Objetivos trimestrales**
 
-Cada tres meses, se realiza una reunión para definir los objetivos del siguiente trimestre y sus KPIs correspondientes. En esta reunión, revisamos si hemos cumplido los objetivos del trimestre anterior, analizamos el estado actual de la empresa y actualizamos los objetivos para hacer un seguimiento de los objetivos anuales. Así podemos ver en qué debemos hacer más foco para mejorar. Gracias a los KPIs podemos seguir de cerca el crecimiento y consecución de los objetivos.
+Cada tres meses, se realiza una reunión para definir los objetivos del siguiente trimestre y sus KPIs correspondientes. En esta reunión, revisamos si hemos cumplido los objetivos del trimestre anterior, analizamos el estado actual de la empresa y hacemos un seguimiento de los objetivos anuales para ver si es necesario actualizarlos. Con este análisis obtenemos una visión más clara de los aspectos en los que debemos poner el foco y que datos determinarán si hemos cumplido las metas que esperamos.
 
 **Objetivos mensuales**
 
-Los objetivos mensuales surgen para simplificar los objetivos trimestrales, transformando estos en acciones a realizar. A principio de cada mes tiene lugar una reunión en la que organizamos el trabajo, definimos los objetivos del mes y establecemos prioridades. La planificación mensual nos ayuda a tener una visión más amplia que a una semana para eludir posibles problemas del futuro.
+Los objetivos mensuales surgen para simplificar los objetivos trimestrales, transformando estos en acciones a realizar. A principio de cada mes tiene lugar una reunión en la que organizamos el trabajo, definimos los objetivos del mes y establecemos prioridades. La planificación mensual nos ayuda a tener una visión más amplia que a una semana para eludir posibles problemas del futuro y optimizar recursos y tiempo.
 
 **Objetivos semanales**
 
@@ -34,11 +34,11 @@ En el día a día del estudio trabajamos con objetivos semanales coordinando int
 
 ### 1.2 Meetings
 
-A la hora de reunirnos seguimos una metodología ágil. Establecemos objetivos claros y directos para cada reunión, y evitamos en todos los casos establecer comités. Consideramos que lo más valioso es el tiempo, siendo muy importante para nosotros respetar los tiempos.
+A la hora de reunirnos seguimos una metodología ágil. Establecemos objetivos claros y directos para cada reunión, y evitamos en todos los casos establecer comités. Consideramos que lo más valioso es el tiempo y nos tomamos en serio el respetarlo.
 
 ### 1.3 **Planning semanal**
 
-Reunión semanal en la que se analiza el estado de los proyectos y se fijan los objetivos a alcanzar y tareas a completar en la semana que comienza.
+Reunión semanal en la que se analiza el estado de los proyectos y se fijan los objetivos a alcanzar y tareas a completar durante la semana.
 
 _**Planning**_ **Equipo**
 
@@ -60,21 +60,23 @@ Para realizarla, utilizamos el bot de Geekbot para Slack:
 
 {% embed data="{\"url\":\"https://geekbot.io/\",\"type\":\"link\",\"title\":\"Geekbot\",\"description\":\"Discover how to organise asynchronous stand up meetings in Slack and keep your team synced using Geekbot. Start your free trial today!\",\"icon\":{\"type\":\"icon\",\"url\":\"https://geekbot.io/apple-touch-icon-152x152.png\",\"width\":152,\"height\":152,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://geekbot.io/static/img/og-image.png\",\"width\":1200,\"height\":630,\"aspectRatio\":0.525}}" %}
 
-Geekbot nos permite realizar la daily de forma sencilla y asíncrona, mediante 4 preguntas que se envían directamente al canal \#daily de Slack. Te pregunta cómo estás, qué se hizo el día anterior, cuáles son las tareas planteadas a completar en el día y si has encontrado algún bloqueo. Esta forma de hacer la _daily_ nos aporta flexibilidad, ya que:
+Geekbot nos permite realizar la daily de forma sencilla y asíncrona, mediante 4 preguntas que se envían directamente al canal \#daily del [Slack](https://slack.com) que usamos en el equipo. Te pregunta cómo estás, qué se hizo el día anterior, cuáles son las tareas planteadas a completar en el día y si has encontrado algún bloqueo. Esta forma de hacer la _daily_ nos aporta flexibilidad, ya que:
 
 * Cada miembro del equipo puede elegir en que momento completarla.
 * No es necesaria la presencia de todos los miembros del equipo para llevarse a cabo.
 * Al poder acceder a ella fácilmente en Slack, todos los miembros del equipo tendrán conocimiento de la daily de sus compañeros.
 
-  Para asegurarnos que todas las personas del equipo están al tanto y conozcan en qué se está trabajando, se deben leer las _dailies_ del resto de miembros del equipo. Para marcar que se ha leído la _daily_ de un compañero se reacciona con un ✅ al mensaje generado por _Geekbot_ en el canal \#daily.
+{% hint style="info" %}
+Para asegurarnos que todas las personas del equipo están al tanto y conozcan en qué se está trabajando, se deben leer las _dailies_ del resto de miembros del equipo. Para marcar que se ha leído la _daily_ de un compañero se reacciona con un ✅ al mensaje generado por _Geekbot_ en el canal \#daily.
+{% endhint %}
 
 **Preguntas para completar la** _**daily**_
 
 {% hint style="info" %}
-✏️ Estas preguntas las lanza _Geekbot_ automáticamente a la hora que fijemos o al utilizar el comando _report_.
+✏️ Estas preguntas las lanza _Geekbot_ automáticamente a la hora que fijemos o al utilizar el comando`report`.
 {% endhint %}
 
-Para contestar a las preguntas se utiliza el template que se encuentra a continuación, así se consigue unificar las respuestas de todos los miembros del equipo.
+Para contestar a las preguntas utilizamos la plantilla que se muestra a continuación que se encuentra a continuación, así se consigue unificar las respuestas de todos los miembros del equipo.
 
 * **¿Qué hiciste ayer?**
 
@@ -112,19 +114,21 @@ Para contestar a las preguntas se utiliza el template que se encuentra a continu
 
   Cuéntale al equipo que bloqueos te encontraste el día anterior y menciona a las personas que te pueden ayudar a solucionarlo.
 
-  ✏️ **Recuerda:** para mencionar a una persona el Slack basta con poner @\[nombre de la persona que buscas\]
+{% hint style="info" %}
+**Recuerda:** para mencionar a una persona el Slack basta con poner el símbolo de arroba \(@\) seguido del nombre de usuario que utiliza esa persona.
+{% endhint %}
 
 ### 1.5 Retrospectivas
 
-Las retrospectivas nos sirven para analizar el trabajo realizado, nos ayudan a mejorar potenciando lo que ha ido bien y poniendo foco en lo que ha ido mal.
+Las retrospectivas nos sirven para analizar el trabajo realizado, nos ayudan a mejorar potenciando lo que ha ido bien y poniendo foco en lo que ha ido mal para proponer ideas que nos ayuden a solucionarlo.
 
 **Retrospectiva Proyecto**
 
-Reunión en la que participan todos los miembros de un proyecto. El responsable de cada proyecto es quien debe convocar a todos los miembros que participan en él para para analizar qué ha ido bien, qué ha ido mal y cómo se puede mejorar en el siguiente _Sprint_.
+Reunión en la que participan todos los miembros de un proyecto. El responsable de cada proyecto es quien debe convocar a todos los miembros que participan en él para para analizar qué ha ido bien, qué ha ido mal y cómo se puede mejorar en el siguiente _sprint_.
 
 **Retrospectiva Equipo**
 
-Reunión que tiene lugar al final de cada mes \*\*para distinguir qué cosas ha ido bien para mantenerlas y fomentarlas, qué ha ido mal para poner foco en solucionarlas, y cómo se puede mejorar. En la retrospectiva del equipo estarán presentes todos los miembros del equipo.
+Reunión que tiene lugar al final de cada mes para distinguir qué cosas han ido bien para mantenerlas y fomentarlas, qué ha ido mal para poner foco en solucionarlas, y cómo se puede mejorar. En la retrospectiva del equipo estarán presentes todos los miembros del equipo.
 
 ## 2. Organización de un proyecto
 
@@ -132,7 +136,7 @@ Reunión que tiene lugar al final de cada mes \*\*para distinguir qué cosas ha 
 
 Consideramos que tener una persona que lidere un proyecto es muy importante al trabajar con distintos proyectos simultáneamente. Cada uno de nuestros proyectos cuenta con un líder que ayuda a que el proyecto alcance la máxima calidad.
 
-El líder de proyecto supervisa y coordina los objetivos, las tareas a realizar y a los miembros del equipo que participan en el proyecto. Es el responsable último de la producción, coordinación, del trato con el cliente y quién fija las reuniones con él para mostrarle los avances y mantenerle al día. Su papel es fundamental.
+El líder de proyecto supervisa y coordina los objetivos, las tareas a realizar y a los miembros del equipo que participan en el proyecto. Es el responsable último de la producción, coordinación y el trato con el cliente y es quién fija las reuniones con él para mostrarle los avances y mantenerle al día. Su papel es fundamental.
 
 ### 2.2 Project management
 
@@ -140,9 +144,11 @@ La organización del proyecto se realiza por parte del equipo, recayendo su gest
 
 Asana nos permite visualizar el _roadmap_ y las tareas que hay que realizar de un proyecto, mientras que en Notion está toda la documentación necesaria para que cualquier persona del equipo pueda llevar a cabo las actividades de un proyecto.
 
-✏️ Puedes conocer más en **i. Herramientas** sobre cómo nos organizamos en [Notion](tools/notion.md) y [Asana](tools/asana.md).
+{% hint style="info" %}
+Puedes conocer más en **i. Herramientas** sobre cómo nos organizamos en las páginas de [Notion](tools/notion.md) y [Asana](tools/asana.md).
+{% endhint %}
 
-Aunque existe un grado de jerarquía en el estudio, intentamos que sea más o menos difusa. Todos los implicados en un proyecto tratan directamente con el cliente en mayor o menor medida. La transparencia y la transversalidad es una de las claves de nuestro enfoque.
+Aunque existe un grado de jerarquía en el estudio, intentamos que sea más o menos difusa. Todos los implicados en un proyecto tratan directamente con el cliente en mayor o menor medida. La transparencia y la transversalidad y horizontalidad son dos de las claves de nuestro enfoque.
 
 ### 2.3 Gestión de tiempos
 
@@ -176,7 +182,9 @@ La estructura básica presente en Dropbox es la siguiente:
 
 Documentamos cada proyecto en una carpeta distinta. Todos los proyectos siguen la misma nomenclatura para que puedan ser ubicados fácilmente:
 
-\[\[id\]\_\[NOMBRE DEL PROYECTO\]
+```text
+[[id]_[NOMBRE DEL PROYECTO]
+```
 
 * **id**
 
@@ -190,11 +198,15 @@ Documentamos cada proyecto en una carpeta distinta. Todos los proyectos siguen l
 
 Por ejemplo:
 
-* 17\_SEAT
-* 18\_CHICFY
-* 19\_UEFA
+```text
+- 17_SEAT
+- 18_CHICFY
+- 19_UEFA
+```
 
-  👆🏻 Esta nomenclatura nos facilita que los proyectos estén ordenados por orden de creación y realización.
+{% hint style="info" %}
+👆🏻 Esta nomenclatura nos facilita que los proyectos estén ordenados por la fecha en la que fueron creados.
+{% endhint %}
 
 **Todos los proyectos cuentan con la misma estructura y organización:**
 
@@ -241,13 +253,17 @@ Por ejemplo:
 
   Debe contener todos los archivos y documentos que estén listos para entregar al cliente. Todo lo que se le entrega al cliente debe estar en esta carpeta. Estos pueden ser PDFs, explicaciones, archivos de Sketch, vídeos, imágenes, etc.
 
-  ✏️ Esta estructura sirve de base para empezar a trabajar. La organización debe adaptarse a la lógica del proyecto. Si una carpeta corresponde a un servicio que no se va a realizar, debería borrarse y adaptar el resto al nuevo orden.
+{% hint style="info" %}
+✏️ Esta estructura sirve de base para empezar a trabajar. La organización debe adaptarse a la lógica del proyecto. Si una carpeta corresponde a un servicio que no se va a realizar, debería borrarse y adaptar el resto al nuevo orden.
+{% endhint %}
 
 ### 3.3 Nomenclatura
 
 Para tener los archivos organizados y saber fácilmente qué contienen, los nombramos haciendo referencia a la ruta de su directorio. Este es es el esqueleto de nuestra nomenclatura de archivos:
 
-\[id Proyecto\]_\[Nombre del Proyecto\]_\[id archivo\]_\[tipo de archivo\]_\[Plataforma\]
+```text
+[id Proyecto][Nombre del Proyecto][id archivo][tipo de archivo][Plataforma]
+```
 
 * **id Proyecto + Nombre proyecto**
 
@@ -269,8 +285,13 @@ Para tener los archivos organizados y saber fácilmente qué contienen, los nomb
 
 Por ejemplo:
 
-* 22\_UEFA\_02\_UI\_Web
-* 22\_UEFA\_02\_UI\_app\_Android
-* 22\_UEFA\_02\_UI\_app\_iOS
+```text
+- 22_UEFA_02_UI_Web
+- 22_UEFA_02_UI_app_Android
+- 22_UEFA_02_UI_app_iOS
+```
 
+{% hint style="info" %}
 Esta nomenclatura se puede trasladar a las distintas herramientas que utilizamos en mendesaltaren, la 💡 idea es que los archivos de todas las herramientas mantengan el mismo nombre y jerarquía para que cualquier persona del equipo pueda encontrarlo fácilmente.
+{% endhint %}
+
