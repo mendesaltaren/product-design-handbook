@@ -77,7 +77,7 @@ Una de las vías más comunes de comenzar a _entender_ es a través de un brief,
 
 Para entender el producto y la marca y adquirir un conocimiento inicial de los mismos, solemos enviar a nuestros clientes un documento de nuestra factura al que llamamos **Brand Strategy Brief**. Es un pequeño cuestionario que invita al cliente a hacer una reflexión estratégica y conceptual sobre su organización, pasando por la visión, misión y valores, así como su público objetivo y competencia. De esta manera, el equipo mendesaltaren se alinea con el cliente, adoptando sus principios y valores a lo largo del proyecto. Este brief no es siempre necesario, pero es imprescindible si el proyecto incluye branding o si no tienen una estrategia bien definida.
 
-[Brand Strategy Brief.pdf](https://github.com/mendesaltaren/product-design-handbook/raw/master/assets/pdf/brand-strategy-brief.pdf)
+[Brand Strategy Brief](https://www.notion.so/mendesaltaren/Brand-Strategy-Brief-a3a812793b7843ffbe2fbb593c5a43e7)
 
 ### 2.3 Kick-Off
 
