@@ -77,7 +77,7 @@ Una de las vías más comunes de comenzar a _entender_ es a través de un brief,
 
 Para entender el producto y la marca y adquirir un conocimiento inicial de los mismos, solemos enviar a nuestros clientes un documento de nuestra factura al que llamamos **Brand Strategy Brief**. Es un pequeño cuestionario que invita al cliente a hacer una reflexión estratégica y conceptual sobre su organización, pasando por la visión, misión y valores, así como su público objetivo y competencia. De esta manera, el equipo mendesaltaren se alinea con el cliente, adoptando sus principios y valores a lo largo del proyecto. Este brief no es siempre necesario, pero es imprescindible si el proyecto incluye branding o si no tienen una estrategia bien definida.
 
-[Brand Strategy Brief.pdf](https://github.com/mendesaltaren/design-techniques/raw/master/assets/pdf/brand-strategy-brief.pdf)
+[Brand Strategy Brief.pdf](https://github.com/mendesaltaren/product-design-handbook/raw/master/assets/pdf/brand-strategy-brief.pdf)
 
 ### 2.3 Kick-Off
 
@@ -245,7 +245,7 @@ Realizar un mapa conceptual es tan sencillo como recopilar todos los bloques de 
 {% hint style="info" %}
 **💡** Para realizar los mapas conceptuales fácilmente puedes utilizar la librería **concept maps systems**.
 
-📎 [concept maps system.sketch](https://github.com/mendesaltaren/design-techniques/raw/master/assets/sketch/concept-maps-system.sketch)
+📎 [concept maps system.sketch](https://github.com/mendesaltaren/product-design-handbook/raw/master/assets/sketch/concept-maps-system.sketch)
 {% endhint %}
 
 ### 3.4 Árbol de contenido
@@ -264,7 +264,7 @@ Un proceso de trabajo de un árbol de contenido tipo, partiendo de unos mapas co
 {% hint style="info" %}
 **💡** Para realizar un árbol de contenido se puede utilizar la librería de Sketch **flowchart system.**  
 
-[flowchart systems.sketch](https://github.com/mendesaltaren/design-techniques/raw/master/assets/sketch/flowchart-systems.sketch)
+[flowchart systems.sketch](https://github.com/mendesaltaren/product-design-handbook/raw/master/assets/sketch/flowchart-systems.sketch)
 {% endhint %}
 
 ### 3.5 **Flujos**
@@ -280,7 +280,7 @@ Existe una convención estándar para la realización de flujos denominada "flow
 {% hint style="info" %}
 **💡** Para preparar tus flujos se puede utilizar la librería de Sketch **flowchart system.**
 
-[flowchart systems.sketch](https://github.com/mendesaltaren/design-techniques/raw/master/assets/sketch/flowchart-systems.sketch)
+[flowchart systems.sketch](https://github.com/mendesaltaren/product-design-handbook/raw/master/assets/sketch/flowchart-systems.sketch)
 {% endhint %}
 
 ### 3.6 Componentización
@@ -343,7 +343,7 @@ El **objetivo de la fase** de _wireframing_ es definir desde el flujo de navegac
 {% hint style="info" %}
 **💡 Tip**: Para crear los wireframes utilizamos la librería **wireframes system**.
 
-​[wireframes system.sketch](https://github.com/mendesaltaren/design-techniques/raw/master/assets/sketch/wireframe-system.sketch)
+​[wireframes system.sketch](https://github.com/mendesaltaren/product-design-handbook/raw/master/assets/sketch/wireframe-system.sketch)
 {% endhint %}
 
 ### 4.2 Prototipado

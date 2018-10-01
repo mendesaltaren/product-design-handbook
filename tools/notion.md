@@ -69,6 +69,6 @@ Tener los proyectos siguiendo esta estructura en Notion nos permite tener los pr
 {% hint style="info" %}
 Esta es la plantilla que utilizamos en el estudio para documentar cada proyecto
 
-[\[Nombre Proyecto\]](https://github.com/mendesaltaren/design-techniques/tree/e6917bdfb723014dd2c5e3ef24be95efb32f5370/tools/templates/project.md)
+[\[Nombre Proyecto\]](https://github.com/mendesaltaren/product-design-handbook/tree/e6917bdfb723014dd2c5e3ef24be95efb32f5370/tools/templates/project.md)
 {% endhint %}
 

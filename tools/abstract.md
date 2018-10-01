@@ -62,7 +62,7 @@ En el estudio, distinguimos entre tres tipos de _commits_, que representan tres 
 * Al finalizar el día. Siempre, cada uno de las personas del equipo debe hacer commit antes de cerrar el ordenador e irse a casa. Esto nos ayuda a que cualquiera pueda continuar el día siguiente con el trabajo, en el mismo punto que se dejó el día anterior.
 
 {% hint style="info" %}
-✏️ Las tareas coinciden con las tareas marcadas en [Asana](https://github.com/mendesaltaren/design-techniques/tree/e6917bdfb723014dd2c5e3ef24be95efb32f5370/tools/tools/asana.md), que es donde reflejamos el roadmap y las tareas a realizar en un proyecto.
+✏️ Las tareas coinciden con las tareas marcadas en [Asana](https://github.com/mendesaltaren/product-design-handbook/tree/e6917bdfb723014dd2c5e3ef24be95efb32f5370/tools/tools/asana.md), que es donde reflejamos el roadmap y las tareas a realizar en un proyecto.
 {% endhint %}
 
 **¿Cómo se realiza un commit?**
@@ -147,4 +147,3 @@ La **nomenclatura** de nuestros archivos de Sketch siguen el siguiente formato:
 {% hint style="info" %}
 ✏️ Para conocer más sobre como nos organizamos y cual nomenclatura de archivos que seguimos puedes encontrarlo en **1. Cómo nos organizamos**.
 {% endhint %}
-

@@ -2,7 +2,7 @@
 
 ## Introducción
 
-Design Techniques es un instrumento práctico donde se refleja cómo trabajamos en equipo de forma ágil, adaptándonos al cliente y asegurando la calidad de nuestros productos. Este proyecto nace de la necesidad de crear un documento explicativo para futuros integrantes del estudio y, se hace público, gracias a nuestro espíritu divulgativo y las ganas de aportar nuestro granito de arena a la comunidad. Nuestro objetivo ante este proyecto es mejorar, sistematizar, unificar procesos internos y hacer lo más trasparente posible nuestra metodología de trabajo.
+Product Design Handbook es una guía práctica donde se refleja cómo trabajamos en equipo de forma ágil, adaptándonos al cliente y asegurando la calidad de nuestros productos. Este proyecto nace de la necesidad de crear un documento explicativo para futuros integrantes del estudio y, se hace público, gracias a nuestro espíritu divulgativo y las ganas de aportar nuestro granito de arena a la comunidad. Nuestro objetivo ante este proyecto es mejorar, sistematizar, unificar procesos internos y hacer lo más trasparente posible nuestra metodología de trabajo.
 
 El contenido está estructurado de tal forma que abarca primero lo más general y, de ahí, se parte hacia lo más específico. La idea de esto es que el aterrizaje sea sencillo y se tenga, la mayor parte del tiempo, una visión general del proceso y de nuestra organización.
 
@@ -41,7 +41,6 @@ Cualquier tipo de ayuda siempre será bienvenida.
 
 ## Licencia
 
-Esta obra está bajo una licencia de [Creative Commons Reconocimiento 4.0 Internacional](https://github.com/mendesaltaren/design-techniques/tree/2652cd4913656e81f5956d392148cd56b4693161/LICENSE/README.md).
+Esta obra está bajo una licencia de [Creative Commons Reconocimiento 4.0 Internacional](https://github.com/mendesaltaren/product-design-handbook/tree/2652cd4913656e81f5956d392148cd56b4693161/LICENSE/README.md).
 
 [![Licencia de Creative Commons](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
-
