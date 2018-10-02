@@ -42,32 +42,32 @@ Nuestros proyectos contienen:
 
   Los servicios de cada proyecto también se acuerdan con el cliente al incio del proceso, en la propuesta. Estos pueden revisarse a lo largo del proyecto, añadiendo nuevos o eliminando existentes, en función del proceso del proyecto.
 
-{% hint style="info" %}
+  Ejemplos de servicios serían:
 
-Ejemplos de servicios serían:
-
-* Branding
-* Wireframing
-* UX
-* UI
-* Sistema de diseño
-* Prototipado en bajo nivel
-* Prototipado detallado de interacción
-* **Reuniones**
+  * Branding
+  * Wireframing
+  * UX
+  * UI
+  * Sistema de diseño
+  * Prototipado en bajo nivel
+  * Prototipado detallado de interacción
+  * **Reuniones**
 
   Cada reunión que se realiza a lo largo del proyecto se documenta. Esto nos permite recurrir a ella cuando se crea necesario.
 
   Para llevar a cabo la documentación de una reunión, contamos con una plantilla. En función de como se desarrolle este se puede incluir información adicional a esta información básica.
 
-```text
-[Meeting [Descripción Breve][Fecha]](templates/meeting.md)
-```
+  {% hint style="info" %}
+  Esta es la plantilla que utilizamos en el estudio para documentar las reuniones
+
+  [Meeting \[Descripción Breve\]\[Fecha\]](https://github.com/mendesaltaren/product-design-handbook/blob/master/templates/meeting.md)
+  {% endhint %}
+
 
 Tener los proyectos siguiendo esta estructura en Notion nos permite tener los proyectos documentados de una forma clara y todos los recursos disponibles necesarios para un proyecto centralizados en un único lugar.
 
 {% hint style="info" %}
 Esta es la plantilla que utilizamos en el estudio para documentar cada proyecto
 
-[\[Nombre Proyecto\]](https://github.com/mendesaltaren/product-design-handbook/tree/e6917bdfb723014dd2c5e3ef24be95efb32f5370/tools/templates/project.md)
+[\[Nombre Proyecto\]](https://github.com/mendesaltaren/product-design-handbook/blob/master/templates/project.md)
 {% endhint %}
-
