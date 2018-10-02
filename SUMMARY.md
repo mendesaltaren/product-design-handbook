@@ -13,5 +13,3 @@
   * [Marvel](tools/marvel.md)
   * [Notion](tools/notion.md)
   * [Asana](tools/asana.md)
-* [ii. Lecturas recomendadas](recommended-lectures.md)
-
