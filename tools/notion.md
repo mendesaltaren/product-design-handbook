@@ -57,11 +57,11 @@ Nuestros proyectos contienen:
 
   Para llevar a cabo la documentación de una reunión, contamos con una plantilla. En función de como se desarrolle este se puede incluir información adicional a esta información básica.
 
-  {% hint style="info" %}
-  Esta es la plantilla que utilizamos en el estudio para documentar las reuniones
+{% hint style="info" %}
+Esta es la plantilla que utilizamos en el estudio para documentar las reuniones
 
-  [Meeting \[Descripción Breve\]\[Fecha\]](https://www.notion.so/mendesaltaren/Meeting-Descripci-n-Breve-Fecha-aaad9a2a12084d96bd327fa7e433e5ce)
-  {% endhint %}
+[Meeting \[Descripción Breve\]\[Fecha\]](https://www.notion.so/mendesaltaren/Meeting-Descripci-n-Breve-Fecha-aaad9a2a12084d96bd327fa7e433e5ce)
+{% endhint %}
 
 
 Tener los proyectos siguiendo esta estructura en Notion nos permite tener los proyectos documentados de una forma clara y todos los recursos disponibles necesarios para un proyecto centralizados en un único lugar.
