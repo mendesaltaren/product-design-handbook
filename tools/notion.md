@@ -63,7 +63,6 @@ Esta es la plantilla que utilizamos en el estudio para documentar las reuniones
 [Meeting \[Descripción Breve\]\[Fecha\]](https://www.notion.so/mendesaltaren/Meeting-Descripci-n-Breve-Fecha-aaad9a2a12084d96bd327fa7e433e5ce)
 {% endhint %}
 
-
 Tener los proyectos siguiendo esta estructura en Notion nos permite tener los proyectos documentados de una forma clara y todos los recursos disponibles necesarios para un proyecto centralizados en un único lugar.
 
 {% hint style="info" %}
@@ -71,3 +70,4 @@ Esta es la plantilla que utilizamos en el estudio para documentar cada proyecto
 
 [\[Nombre Proyecto\]](https://www.notion.so/mendesaltaren/Nombre-Proyecto-8c43290643bd4382bf0cede77d334dc0)
 {% endhint %}
+
