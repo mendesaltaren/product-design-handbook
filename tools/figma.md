@@ -20,7 +20,7 @@ Las páginas en proceso son sobre las que se está trabajando. En estas se itera
 
 Consideramos importante diferenciar las páginas en las cuales no hay diseño acabado porque se está trabajando sobre ellas. Son páginas en las cuales el contenido no tiene que ser perfecto.
 
-**Páginas** _**master**_  **✅**
+**Páginas** _**master**_ **✅**
 
 Las páginas _master_ contienen el contenido acabado. El contenido de esta página debe estar perfecto, contar con estilos aplicados, estar formadas en base a componentes y respetar los espaciados definidos.
 

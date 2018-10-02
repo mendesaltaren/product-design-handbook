@@ -28,7 +28,7 @@ Las páginas _master_ contienen el contenido acabado. El contenido de esta pági
 
 En la mayoría de nuestros proyectos, esta página **únicamente aparece cuando el archivo se trate de una librería,** la cual contiene sistema de diseño de nuestro producto.
 
-![Nomenclatura que usamos en las páginas de Sketch](../assets/images/sketch-pages-nomenclature.jpg)
+![Nomenclatura que usamos en las p&#xE1;ginas de Sketch](../.gitbook/assets/sketch-pages-nomenclature.jpg)
 
 {% hint style="info" %}
 Esta es nuestra organización, no tiene porqué ser siempre así, pero esta es la que nos ayuda a nosotros a resolver conflictos sobre que páginas están listas y sobre cuales se está trabajando.
@@ -130,7 +130,7 @@ A continuación se detallan 5 plugins de Sketch que nos facilitan el día a día
 
 _Sketch Runner_ nos ayuda a buscar _todoloqueimagines_ dentro de Sketch, aplicar estilos e insertar símbolos.
 
-![Captura de pantalla del modal de Sketch Runner](../assets/images/screenshot-sketch-runner.png)
+![Captura de pantalla del modal de Sketch Runner](../.gitbook/assets/screenshot-sketch-runner.png)
 
 Sketch Runner permite:
 
@@ -164,19 +164,19 @@ _Rename It_ permite:
 
 Para nosotros es muy útil porque nos permite añadir secuencias de números de forma ascendiente o descendiente de forma automática, lo que nos permite nombrar los _artboards_ fácilmente.
 
-![Captura de pantalla de la ventana de Rename It](../assets/images/screenshot-rename-it.png)
+![Captura de pantalla de la ventana de Rename It](../.gitbook/assets/screenshot-rename-it.png)
 
 ### 2.4 [**Sketch Style Master**](https://github.com/aparajita/sketch-style-master)
 
 Es igual que _Rename It_, pero para estilos de texto. Es realmente útil ya que te deja cambiar el nombre de los estilos de texto y remplazar palabras de estos.
 
-![Captura de pantalla de la ventana de Sketch Style Master](../assets/images/screenshot-text-style-master.png)
+![Captura de pantalla de la ventana de Sketch Style Master](../.gitbook/assets/screenshot-text-style-master.png)
 
 ### 2.5 [**Sketch Style Inventory**](https://github.com/getflourish/Sketch-Style-Inventory)
 
 Una de las grandes ventajas de este plugin es poder sacar todos los estilos de texto que existen en el archivo. Al ejecutar el plugin, _Sketch Style Inventory_ crea una página con todos los estilos de texto que haya.
 
-![Captura de pantalla del modal de Sketch Style Inventory](../assets/images/screenshot-style-inventory.png)
+![Captura de pantalla del modal de Sketch Style Inventory](../.gitbook/assets/screenshot-style-inventory.png)
 
 Es realmente útil cuando se necesita cambiar alguna característica de los estilos, ya que de esta forma podemos asegurar que el cambio se ha aplicado a todos los estilos de texto.
 
@@ -186,6 +186,7 @@ _Sketch Syle Inventory_ también puede generar todos los colores y símbolos pre
 
 Este plugin permite añadir numeración a los artboards en Sketch de tal forma que estos se numeran según el orden en el que aparecen en el listado de capas \(también pueden numerarse en orden inverso\).
 
-![Captura de pantalla de la ventana de Sketch Page Numbers](../assets/images/screenshot-sketch-page-number.png)
+![Captura de pantalla de la ventana de Sketch Page Numbers](../.gitbook/assets/screenshot-sketch-page-number.png)
 
 Es de gran ayuda sobre todo a la hora de diseñar documentos en Sketch como brandbooks o presentaciones de conceptos.
+

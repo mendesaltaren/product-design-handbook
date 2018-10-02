@@ -43,6 +43,7 @@ Nuestros proyectos contienen:
   Los servicios de cada proyecto también se acuerdan con el cliente al incio del proceso, en la propuesta. Estos pueden revisarse a lo largo del proyecto, añadiendo nuevos o eliminando existentes, en función del proceso del proyecto.
 
 {% hint style="info" %}
+
 Ejemplos de servicios serían:
 
 * Branding
@@ -52,8 +53,6 @@ Ejemplos de servicios serían:
 * Sistema de diseño
 * Prototipado en bajo nivel
 * Prototipado detallado de interacción
-{% endhint %}
-
 * **Reuniones**
 
   Cada reunión que se realiza a lo largo del proyecto se documenta. Esto nos permite recurrir a ella cuando se crea necesario.

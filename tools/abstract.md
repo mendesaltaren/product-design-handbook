@@ -29,6 +29,7 @@ Cada persona que trabaja en el proyecto, trabaja en una rama distinta. Cada rama
 Al realizar una rama se realiza una copia exacta de los archivos de su rama padre, bien sea el Master o la rama de otro compañero. Esto nos permite evitar pérdidas de información.
 
 {% hint style="info" %}
+
 Para nosotros, ejemplos de ramas podrían ser:
 
 * Branding
@@ -36,7 +37,6 @@ Para nosotros, ejemplos de ramas podrían ser:
 * Módulo de búsqueda
 * Flujo del checkout
 * Alineación navbar
-{% endhint %}
 
 Las ramas tienen un nombre y una descripción.
 
@@ -147,3 +147,4 @@ La **nomenclatura** de nuestros archivos de Sketch siguen el siguiente formato:
 {% hint style="info" %}
 ✏️ Para conocer más sobre como nos organizamos y cual nomenclatura de archivos que seguimos puedes encontrarlo en **1. Cómo nos organizamos**.
 {% endhint %}
+
