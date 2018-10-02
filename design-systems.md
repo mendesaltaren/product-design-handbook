@@ -238,7 +238,7 @@ A continuación se muestran algunos ejemplos como lista de referencia ante la cr
 
 ```text
 - 02 Components / Link / 01 Active
-- 01 Basics / Link / 01 Active
+- 02 Components / Link / 02 Hover
 - 02 Components / Link / 04 Disabled
 ```
 
