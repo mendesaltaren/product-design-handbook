@@ -87,7 +87,7 @@ Una vez el Brand Strategy Brief se haya completado, se realiza un **Kick-off mee
 
 El product canvas es una herramienta muy útil que nos permite tener una foto global del producto mediante el acercamiento cliente-agencia. Se parece mucho a un canvas de negocio pero enfocado a producto. Es, en última instancia, una herramienta de comunicación, que busca, partiendo del segmento de cliente de un producto, detectar sus necesidades insatisfechas así como las carencias y beneficios del producto para transformar todas ellas en una propuesta de valor sólida que posteriormente se materialice en un set de funcionalidades no priorizadas. De este set de funcionalidades, "la carta de Los Reyes Magos", podremos extraer las bases del producto.
 
-Involucra a representantes de los diferentes equipos en una dinámica de toma de decisiones en basxe a un proceso. Es imprescindible la figura de un facilitador que vaya tomando nota en nuestro canvas de las aportaciones de los participantes de la dinámica. Este facilitador no debe tomar partido de la toma de decisiones para así ayudar al resto a verbalizar ideas, seleccionarlas, categorizarlas y evitar bloqueos.
+Involucra a representantes de los diferentes equipos en una dinámica de toma de decisiones en base a un proceso. Es imprescindible la figura de un facilitador que vaya tomando nota en nuestro canvas de las aportaciones de los participantes de la dinámica. Este facilitador no debe tomar partido de la toma de decisiones para así ayudar al resto a verbalizar ideas, seleccionarlas, categorizarlas y evitar bloqueos.
 
 El product canvas es también una forma estupenda de que el equipo del cliente nos conozca y entienda que estamos ahí para escucharles y ayudarles a mejorar sus procesos y productos.
 
