@@ -201,7 +201,6 @@ Por ejemplo:
 ```text
 - 17_SEAT
 - 18_CHICFY
-- 19_UEFA
 ```
 
 {% hint style="info" %}
