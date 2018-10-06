@@ -54,7 +54,7 @@ Una vez aprobada la propuesta donde se han definido los servicios que se van a l
 
 ## 2. Entendimiento
 
-La fase de entendimiento es el proceso que nos permite establecer el marco de actuación de nuestro trabajo. Se trata de una serie de dinámicas y procesos que deben ser aplicados según nuestro criterio para extraer toda la información necesaria para la construcción del proyecto en fases posteriores. Las concluisones en esta fase deben ser compartidas con el cliente como un producto más y validadas por él. Solo de esta manera conseguiremos un cimiento estable que elimine expresiones como "me gusta" del vocabulario de nuestros clientes.
+La fase de entendimiento es el proceso que nos permite establecer el marco de actuación de nuestro trabajo. Se trata de una serie de dinámicas y procesos que deben ser aplicados según nuestro criterio para extraer toda la información necesaria para la construcción del proyecto en fases posteriores. Las conclusiones en esta fase deben ser compartidas con el cliente como un producto más y validadas por él. Solo de esta manera conseguiremos un cimiento estable que elimine expresiones como "me gusta" del vocabulario de nuestros clientes.
 
 **Conocer el problema**
 
