@@ -107,5 +107,5 @@ Prepara un documento que explique detalladamente qué elementos componen la marc
 
 **3.3. Entrega final.**
 
-* Agrupa y estructura en carpetas todos los archivos producidos y guarda el empaquetado en la carpeta _**03\_output / \_deliverables**_ del proyecto correspondiente en Dropbox.
+* Agrupa y estructura en carpetas todos los archivos producidos y guarda el empaquetado en la carpeta _**04\_deliverables**_ del proyecto correspondiente en Dropbox.
 

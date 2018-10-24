@@ -58,7 +58,7 @@ La _daily_ se completa todos los días por todos los miembros del equipo. La _da
 
 Para realizarla, utilizamos el bot de Geekbot para Slack:
 
-{% embed data="{\"url\":\"https://geekbot.io/\",\"type\":\"link\",\"title\":\"Geekbot\",\"description\":\"Discover how to organise asynchronous stand up meetings in Slack and keep your team synced using Geekbot. Start your free trial today!\",\"icon\":{\"type\":\"icon\",\"url\":\"https://geekbot.io/apple-touch-icon-152x152.png\",\"width\":152,\"height\":152,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://geekbot.io/static/img/og-image.png\",\"width\":1200,\"height\":630,\"aspectRatio\":0.525}}" %}
+{% embed url="https://geekbot.io/" %}
 
 Geekbot nos permite realizar la daily de forma sencilla y asíncrona, mediante 4 preguntas que se envían directamente al canal \#daily del [Slack](https://slack.com) que usamos en el equipo. Te pregunta cómo estás, qué se hizo el día anterior, cuáles son las tareas planteadas a completar en el día y si has encontrado algún bloqueo. Esta forma de hacer la _daily_ nos aporta flexibilidad, ya que:
 
@@ -285,9 +285,9 @@ Para tener los archivos organizados y saber fácilmente qué contienen, los nomb
 Por ejemplo:
 
 ```text
-- 22_UEFA_02_UI_Web
-- 22_UEFA_02_UI_app_Android
-- 22_UEFA_02_UI_app_iOS
+- 17_SEAT_02_UI_Web
+- 17_SEAT_02_UI_app_Android
+- 17_SEAT_02_UI_app_iOS
 ```
 
 {% hint style="info" %}

@@ -35,7 +35,7 @@ Cualquier tipo de ayuda siempre será bienvenida.
 Empresas y centros académicos que utilizan nuestro Product Design Handbook como referencia:   
 ZARA, GOI, Chicfy, C14/SEAT, Packlink, Universidad Europea, Playtomic entre otros…
 
-{% embed data="{\"url\":\"https://www.youtube.com/watch?v=kzLJ7Vy6orw\",\"type\":\"video\",\"title\":\"Agorazein - 100k pasos \(Video Oficial\)\",\"description\":\"@agz\_oficial\\n@c\_tangana\\n@RoyceRolo\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.youtube.com/yts/img/favicon\_144-vfliLAfaB.png\",\"width\":144,\"height\":144,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://i.ytimg.com/vi/kzLJ7Vy6orw/maxresdefault.jpg\",\"width\":1280,\"height\":720,\"aspectRatio\":0.5625},\"embed\":{\"type\":\"player\",\"url\":\"https://www.youtube.com/embed/kzLJ7Vy6orw?rel=0&showinfo=0\",\"html\":\"<div style=\\\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;\\\"><iframe src=\\\"https://www.youtube.com/embed/kzLJ7Vy6orw?rel=0&amp;showinfo=0\\\" style=\\\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\\\" allowfullscreen scrolling=\\\"no\\\"></iframe></div>\",\"aspectRatio\":1.7778}}" %}
+{% embed url="https://www.youtube.com/watch?v=kzLJ7Vy6orw" %}
 
 > 100k pasos, más de 100k pasos en mis pies  
 > But the sun’s gonna rise, the sun’s gonna rise like everyday
