@@ -419,7 +419,7 @@ La mejor forma de entregar un proyecto es un link a la carpeta de Google Drive o
 
 Es de suma importancia que el cliente comprenda qué, pese a estar cerrado, es posible corregir posteriormente cualquier error que hayamos cometido.
 
-### 5.1 Organización
+### 5.2 Organización
 
 A la hora de preparar un proyecto entregable es muy importante establecer una organización que el cliente pueda entender a través de convenciones. Se debe seleccionar aquellos archivos que sean valiosos para el cliente, no olvidando en ningún caso aquellos que hayan sido definidos como mandatory por el cliente en la fase de preparación.
 
