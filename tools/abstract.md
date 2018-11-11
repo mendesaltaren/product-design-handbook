@@ -4,7 +4,7 @@
 
 En el equipo trabajamos con Abstract porque nos permite tener un control de versiones del producto y trabajar varias personas simultaneamente sobre un mismo archivo de Sketch, nuestra principal herramienta de trabajo.
 
-Con Abstract hemos conseguido eliminar copias en conflicto, duplicados y confusiones sobre cuales son los archivos finales. Y además, nos ha permitido incluir a nuestros clientes en el flujo de trajo, pudiendo estos visualizar el trabajo realizado y el estado en el que está proyecto.
+Con Abstract hemos conseguido eliminar copias en conflicto, duplicados y confusiones sobre cuales son los archivos finales. Y además, nos ha permitido incluir a nuestros clientes en el flujo de trabajo, pudiendo estos visualizar el trabajo realizado y el estado en el que está proyecto.
 
 {% hint style="info" %}
 ✏️ Para que los clientes puedan ver el proyecto deben estar invitados al proyecto y formar parte de los miembros de este.
