@@ -102,7 +102,7 @@ Trabajamos con dos tipos de estilos compartidos, estilos de texto y estilos de c
 
 Normalmente estos van a residir en la librería en la cual se encuentra el sistema de diseño de nuestro proyecto, y se aplicarán en el archivo en el que estemos trabajando.
 
-Los estilos, como nos símbolos y componentes, nos ayudan a evitar inconsistencias y duplicidades.
+Los estilos, como los símbolos y componentes, nos ayudan a evitar inconsistencias y duplicidades.
 
 **Estilos de capa**
 
@@ -120,7 +120,7 @@ Entre los estilos de capa podemos diferenciamos entre color, opacidad y sombras.
 
 **Estilos de texto**
 
-En todos nuestr archivos, los textos tienen que tener un estilo de texto asignado. Esto nos ayuda a mantener la consistencia en el archivo y en el producto.
+En todos nuestros archivos, los textos tienen que tener un estilo de texto asignado. Esto nos ayuda a mantener la consistencia en el archivo y en el producto.
 
 ## 2. Sketch plugins
 
