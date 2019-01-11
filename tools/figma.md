@@ -12,11 +12,11 @@ En cuanto a cómo trabajamos con Figma el proceso se mantiene igual que el que r
 
 ## Páginas
 
-En nuestros archivos de Sketch se pueden encontrar tres tipos de páginas, en función de su contenido y del estado de este.
+En nuestros archivos de Figma se pueden encontrar tres tipos de páginas, en función de su contenido y del estado de este.
 
 **Páginas en proceso** ⚙️
 
-Las páginas en proceso son sobre las que se está trabajando. En estas se itera sobre un mismo _artboard_ o elemento.
+Las páginas en proceso son sobre las que se está trabajando. En estas se itera sobre un mismo _frame_ o elemento.
 
 Consideramos importante diferenciar las páginas en las cuales no hay diseño acabado porque se está trabajando sobre ellas. Son páginas en las cuales el contenido no tiene que ser perfecto.
 
@@ -52,7 +52,7 @@ Un ejemplo sería:
 
 ## Frames
 
-Nosotros agrupamos los _frames_ en flujos o historias de usuario. Cada fila representa un posible flujo de la aplicación o de la web que se esté diseñando. Al principio de cada fila existe un _artboard_ que contiene el nombre y una descripción del flujo que representan los _artboards_ de dicha fila.
+Nosotros agrupamos los _frames_ en flujos o historias de usuario. Cada fila representa un posible flujo de la aplicación o de la web que se esté diseñando. Al principio de cada fila existe un _frame_ que contiene el nombre y una descripción del flujo que representan los _frames_ de dicha fila.
 
 Para nombrar los artboards utilizamos un identificador, que se corresponde con el de la página, y un número que se compone con el número de fila y el número de vista.
 
