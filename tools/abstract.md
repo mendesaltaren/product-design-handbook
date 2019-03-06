@@ -28,7 +28,6 @@ Cada persona que trabaja en el proyecto, trabaja en una rama distinta. Cada rama
 
 Al realizar una rama se realiza una copia exacta de los archivos de su rama padre, bien sea el Master o la rama de otro compañero. Esto nos permite evitar pérdidas de información.
 
-
 Para nosotros, ejemplos de ramas podrían ser:
 
 * Branding
