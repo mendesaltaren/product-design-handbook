@@ -5,6 +5,7 @@
 * [2. Proceso](process.md)
 * [3. Branding](branding.md)
 * [4. Sistemas de diseño](design-systems.md)
+* [5. Conversion Rate Optimization](conversion-rate-optimization.md)
 * [i. Herramientas](tools/README.md)
   * [Abstract](tools/abstract.md)
   * [Sketch](tools/sketch.md)
