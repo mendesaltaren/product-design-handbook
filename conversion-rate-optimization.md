@@ -8,7 +8,7 @@ Conversion Rate Optimization es el proceso mediante el cual se optimizan los obj
 
 CRO es una disciplina que se basa en el método científico como marco de referencia para plantear y validar hipótesis.
 
-### 1.1.1 ¿Por qué hacer CRO?
+#### 1.1.1 ¿Por qué hacer CRO?
 
 CRO te habilita a optimizar las funcionalidades de tu producto digital, mientras entiendes el porqué y el como se comportan tus usuarios. La premisa es que tus activos digitales nunca llegan a tener su máximo potencial hasta que rigurosamente experimentas los cambios.
 
@@ -20,7 +20,7 @@ Los principales beneficios por los que hacer CRO:
 * **Baja tu Coste por adquisición**: tu CPA deberá de ser siempre menor que tu CLV si no no estarán siendo rentables tus campañas.
 * **Mejora la experiencia de tu usuario**: generar procesos amigables y usables garantiza la probabilidad de que se generen procesos transaccionales sin fricciones ni dificultades.
 
-### 1.1.1 ¿Qué se entiende por una conversión?
+#### 1.1.1 ¿Qué se entiende por una conversión?
 
 Una conversión es la consecución de un objetivo o una acción que quieres que tus usuarios realicen y que directa o indirectamente genera ganancia para tu negocio. Como consecuciones de objetivo se puede entender el número de veces que se alcanza un objetivo de valor para el negocio.
 
@@ -30,7 +30,7 @@ Una conversión es la consecución de un objetivo o una acción que quieres que 
 
 Entendemos como ingredientes del CRO aquellas disciplinas dentro del producto digital que nos permitirán generar la mejora en cualquier entorno. Son las disciplinas necesarias para que un proyecto de CRO se pueda llevar a cabo.
 
-### 1.2.1 Disciplinas necesarias
+#### 1.2.1 Disciplinas necesarias
 
 En un proyecto CRO necesitamos coordinar 3 tipos de disciplinas:
 
@@ -40,7 +40,7 @@ En un proyecto CRO necesitamos coordinar 3 tipos de disciplinas:
 
 Tener un perfil que integre estos conocimientos es bastante complejo y más cuando hablamos de conocimientos avanzados de cada una de estas disciplinas.
 
-### 1.2.2 La Pirámide de la conversión
+#### 1.2.2 La Pirámide de la conversión
 
 El inicio de un proyecto de CRO pasa por analizar aquellas dimensiones que tiene que tener cubiertas cualquier producto digital para que se produzca una conversión.   
 Estas dimensiones van desde lo más esencial que se le exige a cualquier interfaz, que funcione, ganando poco a poco en complejidad hasta llegar a la palanca de la persuasión. Las dimensiones son las siguientes:
@@ -55,7 +55,7 @@ Estas dimensiones van desde lo más esencial que se le exige a cualquier interfa
 
 Dentro de cada fase generamos un análisis heurístico identificando los problemas que se pueden dar, siendo la fase persuasiva la que necesita un análisis más profundo aplicando técnicas de psicología de la persuasión para proponer mejoras en este punto.
 
-### 1.2.3 Los principios de la persuasión
+#### 1.2.3 Los principios de la persuasión
 
 Persuadir es el principal objetivo de cualquier proyecto de mejora de la conversión. Existen mecanismos que pueden activar necesidades de nuestros usuarios a través de determinados estímulos y que harán que sean más proclives a realizar determinadas acciones.
 
@@ -109,11 +109,11 @@ En mendesaltaren hemos implementado el método científico utilizando herramient
 
 ![](.gitbook/assets/pdh_cro_process.png)
 
-### 2.3.1 Fase de entendimiento
+#### 2.3.1 Fase de entendimiento
 
 En esta fase inicial el objetivo es conocer el proyecto con el mayor grado de profundidad posible.
 
-### **2.3.1.1 Kickoff**
+#### **2.3.1.1 Kickoff**
 
 **¿Qué es?**
 
@@ -127,7 +127,7 @@ En mendesaltaren tenemos una hoja con preguntas predeterminadas por categorías 
 👉 [Table 1 - Grid view](https://airtable.com/shrySBP6wEQYm704U)
 {% endhint %}
 
-### **2.3.1.2 Plan de medición**
+#### **2.3.1.2 Plan de medición**
 
 **¿Qué es?**
 
@@ -151,7 +151,7 @@ El resultado de este ejercicio debe de ser algo similar a este ejemplo aplicado 
 
 ![](.gitbook/assets/pdh_cro_plandemedicion.png)
 
-### **2.3.1.3 Guía de etiquetado**
+#### **2.3.1.3 Guía de etiquetado**
 
 **¿Qué es?**
 
@@ -171,9 +171,9 @@ Generamos una guía donde aparecerán especificadas las variables página, de us
 _Para el etiquetado, el valor que tomarán las variables en el data Layer serán siempre caracteres alfanuméricos, en minúsculas, separadas por guión bajo y sin acentuación._
 {% endhint %}
 
-### 2.3.2 Fase de Investigación
+#### 2.3.2 Fase de Investigación
 
-### **2.3.2.1 Analítica cualitativa**
+#### **2.3.2.1 Analítica cualitativa**
 
 **¿Qué es?**
 
@@ -227,7 +227,7 @@ Ejemplo de gráfico tras evaluar una de las preguntas con los diferentes tags as
 
 ![A la pregunta &#xBF;Qu&#xE9; es lo que m&#xE1;s te gusta de nosotros?](.gitbook/assets/pdh_cro_grafico_evaluacion_preguntas.png)
 
-### **2.3.2.2 Analítica cuantitativa**
+#### **2.3.2.2 Analítica cuantitativa**
 
 **¿Qué es?**
 
@@ -242,9 +242,9 @@ Ejemplo de análisis para una web de Oposiciones.
 
 ![](.gitbook/assets/pdh_flujo_etiquetas.png)
 
-### 2.3.3 Fase de ideación
+#### 2.3.3 Fase de ideación
 
-### **2.3.3.1 Generación de hipótesis**
+#### **2.3.3.1 Generación de hipótesis**
 
 Las hipótesis tienen que reflejar el problema o necesidad identificada, que esté justificado con unos datos, anunciar cuál será nuestra propuesta de mejora y qué impacto tendrá.
 
@@ -282,7 +282,7 @@ El documento para conceptualizar tus hipótesis podría estructurarse de la sigu
 _**Recurso:**_ [Plantilla Hipótesis de una idea](https://docs.google.com/presentation/d/1LpED3zhI3v_mitOQBNJJKv6ngAGDqfkRZijjeiAhu_w/edit#slide=id.g3f120539d2_0_0)
 {% endhint %}
 
-### **2.3.3.2 Priorización de las ideas**
+#### **2.3.3.2 Priorización de las ideas**
 
 Las ideas se priorizan en base a impacto vs esfuerzo. Todos los índices de priorización publicados tienen variables que toman más o menos valor numérico en base a estas dos premisas.
 
@@ -310,15 +310,15 @@ Otro índice en el que nos podemos basar es en el patentado por Conversion XL el
 [PXL Test Prioritization Model](https://docs.google.com/spreadsheets/d/1DGuw1vkqYZ61plOpTcGHFDvh4MMP4kaRnlTtaXSWrJA/edit#gid=0)
 {% endhint %}
 
-### **2.3.3.3 Wireframing y diseño**
+#### **2.3.3.3 Wireframing y diseño**
 
 En esta fase tangibilizamos esas ideas en wireframes, es decir, en un esquema de la página o plano que se representa como un esqueleto o estructura visual de un sitio web o app.
 
 Este recurso nos permite representar visualmente la ordenación de los contenidos incluyendo los elementos de la interfaz y sistemas de navegación, y cómo funcionan en su conjunto. Usaremos un código en blanco y negro mostrando con un trazo negro los contenidos y la disposición de los mismos en el layout.
 
-### **2.3.4 Fase de Experimentación**
+#### **2.3.4 Fase de Experimentación**
 
-### **2.3.4.1 Codificación de los test**
+#### **2.3.4.1 Codificación de los test**
 
 La codificación de los test consiste en desarrollar las diferentes versiones de la hipótesis planteada que vamos a lanzar a test. En este proceso existen varias formas de implementar las diferentes variantes con una herramienta de test. A continuación enumeramos las opciones que tenemos a la hora de decidir cómo codificar esos cambios.
 
@@ -354,7 +354,7 @@ En estos experimentos es el propio servidor el encargado de realizar el experime
 
 No solo se pueden testear cambios de la interfaz, con los experimentos de servidor se pueden testear cambios más avanzados, como por ejemplo un cambio en un algoritmo de recomendaciones. También se podría llegar a testear el cambio de un framework javascript a otro, para ver que dicho cambio no afecta a los objetivos de la web.
 
-### **2.3.4.2 Configuración de la herramienta de testing**
+#### **2.3.4.2 Configuración de la herramienta de testing**
 
 A la hora de configurar un test en la herramienta de test tienes que tener en cuenta los siguientes puntos:
 
