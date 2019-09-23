@@ -297,7 +297,7 @@ Aquí el grado de complejidad puede darse debido a diferentes criterios como: di
   
 Un ejemplo de índice para un cliente sería este:
 
-![](.gitbook/assets/pdh_cro_indice.png)
+![](.gitbook/assets/pdh_cro_indicepriorizacion.png)
 
 {% hint style="info" %}
 La puntuación final es el promedio de las notas que obtienen cada una de las variables. Si en una compañía hay variables que tienen más importancia que otras se puede hacer un cálculo ponderado en base al nivel de criticidad que tenga.
