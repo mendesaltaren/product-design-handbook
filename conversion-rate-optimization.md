@@ -387,7 +387,7 @@ Es muy importante que exista un _protocolo de auditado_ antes de lanzar el test 
 
 Asana es una herramienta de gestión de tareas que nos ayuda a organizar y planificar los flujos de trabajo a fin de tener en un panel con una visibilidad completa todas las tareas con los criterios para generar cada una de ellas y el momento de ejecución en el que se encuentran.
 
-![](.gitbook/assets/pdh_cro_tareas.png)
+![Ejemplo de gesti&#xF3;n de proyecto en Asana](.gitbook/assets/group-4.png)
 
 El panel se organiza en 5 columnas más el Sprint en curso.
 
