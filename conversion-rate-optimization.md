@@ -425,7 +425,7 @@ El panel se nutre de **tareas** las cuales integran los siguientes tags a la hor
 
 Ejemplo de tarea:
 
-![](.gitbook/assets/pdh_cro_asana%20%281%29.png)
+![](.gitbook/assets/visitnate-1.png)
 
 ### **3.3 Plan global de optimización**
 
