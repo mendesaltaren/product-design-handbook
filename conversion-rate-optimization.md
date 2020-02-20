@@ -221,11 +221,9 @@ Para sacar patrones claros debemos generar unos tags asociados a unos motivos pa
 
 Lo mostramos en la siguiente tabla:
 
-![](.gitbook/assets/pdh_cro_encuesta.png)
 
 Ejemplo de gráfico tras evaluar una de las preguntas con los diferentes tags asignados. 
 
-![A la pregunta &#xBF;Qu&#xE9; es lo que m&#xE1;s te gusta de nosotros?](.gitbook/assets/pdh_cro_grafico_evaluacion_preguntas.png)
 
 #### **2.3.2.2 Analítica cuantitativa**
 
@@ -439,7 +437,6 @@ A continuación enumeramos las partes de las que debe constar un Plan:
 
 Visión Global de las ideas de mejora en base al tipo de análisis que hayamos hecho para identificar el problema o la necesidad del usuario.
 
-![](.gitbook/assets/pdh_cro_backlogideas.png)
 
 #### **3.3.2 Plan de testing**
 
