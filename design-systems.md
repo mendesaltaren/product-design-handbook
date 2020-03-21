@@ -129,6 +129,7 @@ Es importante destacar que aunque los nombres aqu√≠ los hemos reflejado en espa√
 * Components
 * Modules
 * Templates
+{% endhint %}
 
 ### 4.1 01 Fragmentos
 
