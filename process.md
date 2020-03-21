@@ -103,7 +103,7 @@ El product canvas es también una forma estupenda de que el equipo del cliente n
 
 * **Pains**
 
-  ¿Cuáles son los pains que tiene en cliente para llevar sacar el producto? → Debilidades
+  ¿Cuáles son los pains que tiene el cliente para llevar sacar el producto? → Debilidades
 
 * **Gains**
 
@@ -258,7 +258,7 @@ Es importante no confundir un _árbol de contenido_ con un _flujo_. Un _árbol d
 
 Un proceso de trabajo de un árbol de contenido tipo, partiendo de unos mapas conceptuales, podría describirse así:
 
-1. Organizar todos las bloques identificados en los mapas conceptuales en una estructura global. Esta estructura debe considerar los distintos niveles de navegación \(primario, secundario, etc.\). No es necesario tener presentes todos los bloques que conforman los mapas conceptuales, solamente identificarlos.
+1. Organizar todos los bloques identificados en los mapas conceptuales en una estructura global. Esta estructura debe considerar los distintos niveles de navegación \(primario, secundario, etc.\). No es necesario tener presentes todos los bloques que conforman los mapas conceptuales, solamente identificarlos.
 2. Organizar el contenido en páginas distintas.
 
 {% hint style="info" %}
@@ -269,7 +269,7 @@ Un proceso de trabajo de un árbol de contenido tipo, partiendo de unos mapas co
 
 ### 3.5 **Flujos**
 
-Los flujos muestran **como interactúa un usuario** con un producto o servicio, mostrando diferentes caminos en función de la interacción de los usuarios. Permiten detectar _pain points_ en los distintos _funnels_ de la app o web, así como reflexionar en abstracto y tomar decisiones sobre las diferentes casuísticas y opciones de uso de un servicio o producto.
+Los flujos muestran **cómo interactúa un usuario** con un producto o servicio, mostrando diferentes caminos en función de la interacción de los usuarios. Permiten detectar _pain points_ en los distintos _funnels_ de la app o web, así como reflexionar en abstracto y tomar decisiones sobre las diferentes casuísticas y opciones de uso de un servicio o producto.
 
 {% hint style="warning" %}
 Los flujos se pueden realizar a lo largo de toda la etapa de definición y serán siempre útiles. Antes de realizar los wireframes es importante tener creado un flujo para validar con el cliente la navegación y estructura de la app o web.
@@ -287,7 +287,7 @@ Existe una convención estándar para la realización de flujos denominada "flow
 
 Durante la componentización ponemos en relieve todos los módulos que conforman nuestro producto final y/o todas las piezas que forman parte de una marca. La idea es encontrar patrones que nos permitan resolver todos los problemas que se nos plantean con el número mínimo posible de soluciones.
 
-Dependiendo del punto de partida del proyecto esta labor puede realizarse, bien separando en componentes todo el producto del que partimos, o bien a partiendo de lo que vayamos generando durante la fase de wireframing. Una forma de hacerlo podría ser separarando todos los módulos de un wireframe de baja fidelidad, de manera que podamos identificar qué objetivos y problemas resuelven cada uno de ellos, con la idea de encontrar patrones que nos permitan reducir al mínimo las soluciones de diseño, encontrando formas versátiles de resolver dichos problemas.
+Dependiendo del punto de partida del proyecto esta labor puede realizarse, bien separando en componentes todo el producto del que partimos, o bien partiendo de lo que vayamos generando durante la fase de wireframing. Una forma de hacerlo podría ser separando todos los módulos de un wireframe de baja fidelidad, de manera que podamos identificar qué objetivos y problemas resuelven cada uno de ellos, con la idea de encontrar patrones que nos permitan reducir al mínimo las soluciones de diseño, encontrando formas versátiles de resolver dichos problemas.
 
 Más que una herramienta propiamente dicha, la componentización es una forma de pensar que nos permite simplificar un producto o marca en cualquiera de sus fases.
 
@@ -464,4 +464,3 @@ Al realizar la entrega del proyecto, realizamos un seguimiento con el equipo de 
 Cuando se entrega un proyecto, el responsable y los miembros del equipo que han formado parte de él realizan una retrospectiva del proyecto. En esta reunión, se analizará qué ha salido bien y qué puntos del proyecto se pueden mejorar, de cara a siguientes proyectos. Este conocimiento adquirido se traslada al resto del equipo, para que el aprendizaje se vea reflejado en todos los proyectos del estudio.
 
 A los tres meses de la entrega de un proyecto, nos ponemos en contacto con el cliente para ver cómo está funcionando el producto, obtener métricas y poder compararlas, si se tuvieran al inicio del proyecto. Gracias a obtener esta información podremos analizar qué ha funcionado a nivel de producto, y cómo nuestro trabajo ha contribuido a ello. Realizar una retrospectiva en este punto fomenta la mejora de los proyectos futuros.
-
