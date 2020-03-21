@@ -76,7 +76,7 @@ Para asegurarnos que todas las personas del equipo están al tanto y conozcan en
 ✏️ Estas preguntas las lanza _Geekbot_ automáticamente a la hora que fijemos o al utilizar el comando`report`.
 {% endhint %}
 
-Para contestar a las preguntas utilizamos la plantilla que se muestra a continuación que se encuentra a continuación, así se consigue unificar las respuestas de todos los miembros del equipo.
+Para contestar a las preguntas utilizamos la plantilla que se muestra a continuación, así se consigue unificar las respuestas de todos los miembros del equipo.
 
 * **¿Qué hiciste ayer?**
 
