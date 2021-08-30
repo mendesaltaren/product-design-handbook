@@ -91,7 +91,7 @@ Involucra a representantes de los diferentes equipos en una dinámica de toma de
 
 El product canvas es también una forma estupenda de que el equipo del cliente nos conozca y entienda que estamos ahí para escucharles y ayudarles a mejorar sus procesos y productos.
 
-![Diagrama del flujo general de trabajo que usamos en el estudio](.gitbook/assets/global-workflow.jpg)
+![Product Canvas](.gitbook/assets/product-canvas.jpg)
 
 * **Segmento de cliente**
 
