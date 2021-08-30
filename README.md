@@ -1,4 +1,4 @@
->  Ya está disponible una nueva versión del handbook. Puedes encontrarla en [mendesaltaren.com/handbook](mendesaltaren.com/handbook)
+>  Ya está disponible una nueva versión del handbook. Puedes encontrarla en [mendesaltaren.com/handbook](https://www.mendesaltaren.com/handbook)
 
 # 0. Introducción
 
